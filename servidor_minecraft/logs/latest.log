@@ -1,0 +1,31 @@
+[22:51:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[22:51:01] [Server thread/INFO]: Loading properties
+[22:51:01] [Server thread/INFO]: Default game type: SURVIVAL
+[22:51:01] [Server thread/INFO]: Generating keypair
+[22:51:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:51:02] [Server thread/INFO]: Using epoll channel type
+[22:51:02] [Server thread/INFO]: Preparing level "world"
+[22:51:02] [Server thread/INFO]: Loaded 488 advancements
+[22:51:02] [Server thread/INFO]: Preparing start region for level 0
+[22:51:03] [Server thread/INFO]: Preparing spawn area: 10%
+[22:51:04] [Server thread/INFO]: Preparing spawn area: 24%
+[22:51:05] [Server thread/INFO]: Preparing spawn area: 38%
+[22:51:07] [Server thread/INFO]: Preparing spawn area: 53%
+[22:51:08] [Server thread/INFO]: Preparing spawn area: 72%
+[22:51:09] [Server thread/INFO]: Preparing spawn area: 91%
+[22:51:09] [Server thread/INFO]: Done (7.304s)! For help, type "help" or "?"
+[22:53:18] [User Authenticator #1/INFO]: UUID of player Matiroxd64 is bb2bf17b-aa37-43c8-978a-9adca63ec9a9
+[22:53:18] [Server thread/INFO]: Matiroxd64[/127.24.83.18:36711] logged in with entity id 960 at (3.5, 67.0, -42.5)
+[22:53:18] [Server thread/INFO]: Matiroxd64 joined the game
+[22:56:18] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[22:56:18] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
+[22:56:18] [Server thread/INFO]: /ban <name> [reason ...]
+[22:56:18] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[22:56:18] [Server thread/INFO]: /banlist [ips|players]
+[22:56:18] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[22:56:18] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[22:56:18] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[22:56:18] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[22:56:55] [Server thread/INFO]: Opped Matiroxd64
+[22:57:16] [Server thread/INFO]: [Matiroxd64: Set own game mode to Creative Mode]
+[23:00:06] [Server thread/INFO]: Matiroxd64 has made the advancement [Stone Age]
