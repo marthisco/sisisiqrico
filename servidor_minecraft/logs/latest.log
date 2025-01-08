@@ -1,42 +1,34 @@
-[22:51:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[22:51:01] [Server thread/INFO]: Loading properties
-[22:51:01] [Server thread/INFO]: Default game type: SURVIVAL
-[22:51:01] [Server thread/INFO]: Generating keypair
-[22:51:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:51:02] [Server thread/INFO]: Using epoll channel type
-[22:51:02] [Server thread/INFO]: Preparing level "world"
-[22:51:02] [Server thread/INFO]: Loaded 488 advancements
-[22:51:02] [Server thread/INFO]: Preparing start region for level 0
-[22:51:03] [Server thread/INFO]: Preparing spawn area: 10%
-[22:51:04] [Server thread/INFO]: Preparing spawn area: 24%
-[22:51:05] [Server thread/INFO]: Preparing spawn area: 38%
-[22:51:07] [Server thread/INFO]: Preparing spawn area: 53%
-[22:51:08] [Server thread/INFO]: Preparing spawn area: 72%
-[22:51:09] [Server thread/INFO]: Preparing spawn area: 91%
-[22:51:09] [Server thread/INFO]: Done (7.304s)! For help, type "help" or "?"
-[22:53:18] [User Authenticator #1/INFO]: UUID of player Matiroxd64 is bb2bf17b-aa37-43c8-978a-9adca63ec9a9
-[22:53:18] [Server thread/INFO]: Matiroxd64[/127.24.83.18:36711] logged in with entity id 960 at (3.5, 67.0, -42.5)
-[22:53:18] [Server thread/INFO]: Matiroxd64 joined the game
-[22:56:18] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
-[22:56:18] [Server thread/INFO]: /advancement <grant|revoke|test> <player>
-[22:56:18] [Server thread/INFO]: /ban <name> [reason ...]
-[22:56:18] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
-[22:56:18] [Server thread/INFO]: /banlist [ips|players]
-[22:56:18] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
-[22:56:18] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
-[22:56:18] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
-[22:56:18] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[22:56:55] [Server thread/INFO]: Opped Matiroxd64
-[22:57:16] [Server thread/INFO]: [Matiroxd64: Set own game mode to Creative Mode]
-[23:00:06] [Server thread/INFO]: Matiroxd64 has made the advancement [Stone Age]
-[23:01:53] [Server thread/INFO]: <Matiroxd64> ping
-[23:03:38] [Server thread/INFO]: Matiroxd64 has made the advancement [Monster Hunter]
-[23:04:36] [Server thread/INFO]: [Matiroxd64: Set own game mode to Survival Mode]
-[23:05:27] [Server thread/INFO]: Matiroxd64 was slain by Enderman
-[23:05:33] [Server thread/INFO]: [Matiroxd64: Set own game mode to Creative Mode]
-[23:05:48] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to 1000.5, 100.0, 1000.5]
-[23:05:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3445ms behind, skipping 68 tick(s)
-[23:07:17] [Server thread/INFO]: Matiroxd64 has made the advancement [Sweet dreams]
-[23:13:31] [Server thread/INFO]: Matiroxd64 lost connection: Disconnected
-[23:13:31] [Server thread/INFO]: Matiroxd64 left the game
-[23:13:54] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[00:18:35] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[00:18:35] [Server thread/INFO]: Loading properties
+[00:18:35] [Server thread/INFO]: Default game type: SURVIVAL
+[00:18:35] [Server thread/INFO]: Generating keypair
+[00:18:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:18:36] [Server thread/INFO]: Using epoll channel type
+[00:18:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:18:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:18:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:18:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:18:36] [Server thread/INFO]: Preparing level "world"
+[00:18:36] [Server thread/INFO]: Loaded 488 advancements
+[00:18:36] [Server thread/INFO]: Preparing start region for level 0
+[00:18:37] [Server thread/INFO]: Preparing spawn area: 6%
+[00:18:38] [Server thread/INFO]: Done (2.071s)! For help, type "help" or "?"
+[00:18:38] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[00:20:29] [Server thread/INFO]: BruceWayne14509[/127.106.168.154:59769] logged in with entity id 17 at (3.5, 57.0, -41.5)
+[00:20:29] [Server thread/INFO]: BruceWayne14509 joined the game
+[00:21:14] [Server thread/INFO]: Matiroxd64[/127.106.168.154:41231] logged in with entity id 615 at (0.5, 57.0, -57.5)
+[00:21:14] [Server thread/INFO]: Matiroxd64 joined the game
+[00:22:25] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[00:22:32] [Server thread/INFO]: Opped BruceWayne14509
+[00:22:41] [Server thread/INFO]: Opped Matiroxd64
+[00:22:55] [Server thread/INFO]: [Matiroxd64: Set own game mode to Creative Mode]
+[00:23:27] [Server thread/INFO]: [Matiroxd64: Set BruceWayne14509's game mode to Creative Mode]
+[00:23:37] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to 1500.5, 500.0, 50.5]
+[00:23:42] [Server thread/WARN]: Matiroxd64 moved too quickly! 0.0,-17.769761363112707,0.0
+[00:23:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2378ms behind, skipping 47 tick(s)
+[00:24:03] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to 1800.5, 50.0, 122.5]
+[00:24:18] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to 2400.5, 100.0, 1200.5]
+[00:24:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2199ms behind, skipping 43 tick(s)
+[00:24:26] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to BruceWayne14509]
+[00:24:37] [Server thread/INFO]: [Matiroxd64: Teleported Matiroxd64 to 2300.5, 100.0, 1200.5]
+[00:24:50] [Server thread/INFO]: [Matiroxd64: Teleported BruceWayne14509 to Matiroxd64]
