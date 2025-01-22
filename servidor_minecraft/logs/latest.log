@@ -1,773 +1,137 @@
-[22Jan2025 23:41:22.988] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[22Jan2025 23:41:22.992] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[22Jan2025 23:41:23.364] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[22Jan2025 23:41:23.460] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/sisisiqrico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[22Jan2025 23:41:24.074] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Jan2025 23:41:24.234] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Jan2025 23:41:24.268] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Jan2025 23:41:25.915] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[22Jan2025 23:41:33.623] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[22Jan2025 23:41:33.648] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[22Jan2025 23:41:34.205] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[22Jan2025 23:41:34.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[22Jan2025 23:41:34.468] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Loading plugins
-[22Jan2025 23:41:34.477] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[22Jan2025 23:41:34.483] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Initializing plugins
-[22Jan2025 23:41:34.484] [modloading-worker-1/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[22Jan2025 23:41:35.490] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22Jan2025 23:43:42.377] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[22Jan2025 23:43:42.382] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[22Jan2025 23:43:42.791] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[22Jan2025 23:43:42.882] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/sisisiqrico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[22Jan2025 23:43:43.588] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Jan2025 23:43:43.759] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Jan2025 23:43:43.773] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[22Jan2025 23:43:45.703] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[22Jan2025 23:43:53.321] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[22Jan2025 23:43:53.331] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[22Jan2025 23:43:53.957] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[22Jan2025 23:43:54.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[22Jan2025 23:43:54.211] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[22Jan2025 23:43:54.219] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[22Jan2025 23:43:54.221] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[22Jan2025 23:43:54.222] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[22Jan2025 23:43:55.069] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[22Jan2025 23:41:35.509] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Jan2025 23:41:35.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[22Jan2025 23:41:38.048] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Jan2025 23:41:38.907] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22Jan2025 23:41:38.909] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Jan2025 23:41:38.910] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Jan2025 23:41:38.912] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22Jan2025 23:41:38.914] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Jan2025 23:41:38.921] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22Jan2025 23:41:38.926] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, voicechat-forge-1.16.5-2.5.27.jar
-[22Jan2025 23:41:41.036] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[22Jan2025 23:41:42.047] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
-[22Jan2025 23:41:44.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[22Jan2025 23:41:44.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Jan2025 23:41:44.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Jan2025 23:41:44.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Jan2025 23:41:45.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Jan2025 23:41:45.138] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[22Jan2025 23:41:45.384] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Jan2025 23:41:45.385] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Jan2025 23:41:45.385] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Jan2025 23:41:45.385] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Jan2025 23:41:45.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Jan2025 23:41:45.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Jan2025 23:41:46.596] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:41:47.904] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:41:48.312] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:41:48.314] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:41:48.315] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:41:48.316] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:41:48.317] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:41:48.318] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:41:48.830] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 6%
-[22Jan2025 23:41:49.216] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:41:50.597] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:41:51.683] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:41:52.982] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:41:53.336] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:53.338] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:53.394] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:53.394] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:53.395] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:53.395] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:53.396] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:53.396] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:53.397] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
-[22Jan2025 23:41:54.795] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
-[22Jan2025 23:41:54.808] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
-[22Jan2025 23:41:54.809] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 71%
-[22Jan2025 23:41:55.304] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 75%
-[22Jan2025 23:41:55.801] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 80%
-[22Jan2025 23:41:55.884] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:41:56.298] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
-[22Jan2025 23:41:56.797] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
-[22Jan2025 23:41:57.299] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
-[22Jan2025 23:41:57.814] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
-[22Jan2025 23:41:58.306] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
-[22Jan2025 23:41:58.944] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 13148 ms
-[22Jan2025 23:41:58.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.536s)! For help, type "help"
-[22Jan2025 23:41:58.962] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[22Jan2025 23:41:58.988] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'america-premises.gl.at.ply.gg:4013'
-[22Jan2025 23:41:58.993] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 64098
-[22Jan2025 23:42:03.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4812ms or 96 ticks behind
-[22Jan2025 23:42:52.685] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3580c5a9
-[22Jan2025 23:42:52.713] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: wladikato[/127.227.31.128:35689] logged in with entity id 2355 at (141.19530837359537, 72.98412785382013, 190.2591109831994)
-[22Jan2025 23:42:52.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato joined the game
-[22Jan2025 23:42:52.845] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Snowball'/2288, l='ServerLevel[world]', x=127.54, y=71.56, z=174.62]
-[22Jan2025 23:42:52.851] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/2308, l='ServerLevel[world]', x=122.64, y=67.35, z=185.25]
-[22Jan2025 23:42:52.852] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2313, l='ServerLevel[world]', x=121.34, y=64.71, z=191.33]
-[22Jan2025 23:42:52.853] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flint'/2301, l='ServerLevel[world]', x=123.33, y=59.37, z=191.36]
-[22Jan2025 23:42:52.854] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2330, l='ServerLevel[world]', x=126.58, y=53.74, z=190.65]
-[22Jan2025 23:42:52.857] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2311, l='ServerLevel[world]', x=122.26, y=60.64, z=189.59]
-[22Jan2025 23:42:52.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2310, l='ServerLevel[world]', x=124.48, y=61.74, z=181.61]
-[22Jan2025 23:42:52.858] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Snowball'/2296, l='ServerLevel[world]', x=125.67, y=65.25, z=177.72]
-[22Jan2025 23:42:52.859] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Snowball'/2300, l='ServerLevel[world]', x=124.73, y=63.54, z=178.39]
-[22Jan2025 23:42:52.875] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2309, l='ServerLevel[world]', x=139.72, y=62.35, z=173.39]
-[22Jan2025 23:42:52.881] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2287, l='ServerLevel[world]', x=139.27, y=63.56, z=173.28]
-[22Jan2025 23:42:52.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2284, l='ServerLevel[world]', x=134.60, y=66.66, z=174.54]
-[22Jan2025 23:42:52.882] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2292, l='ServerLevel[world]', x=136.30, y=63.72, z=175.68]
-[22Jan2025 23:42:52.883] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2314, l='ServerLevel[world]', x=135.49, y=59.33, z=175.62]
-[22Jan2025 23:42:52.888] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2286, l='ServerLevel[world]', x=139.66, y=70.67, z=170.70]
-[22Jan2025 23:42:52.890] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2293, l='ServerLevel[world]', x=129.65, y=69.71, z=173.32]
-[22Jan2025 23:42:52.898] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2344, l='ServerLevel[world]', x=135.47, y=52.41, z=187.62]
-[22Jan2025 23:42:52.905] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2342, l='ServerLevel[world]', x=138.67, y=54.28, z=185.26]
-[22Jan2025 23:42:52.907] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2285, l='ServerLevel[world]', x=134.30, y=64.74, z=176.65]
-[22Jan2025 23:42:52.910] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2338, l='ServerLevel[world]', x=138.73, y=54.38, z=186.69]
-[22Jan2025 23:42:52.912] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2324, l='ServerLevel[world]', x=136.27, y=52.65, z=180.40]
-[22Jan2025 23:42:52.921] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2299, l='ServerLevel[world]', x=132.65, y=58.74, z=179.74]
-[22Jan2025 23:42:52.922] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2312, l='ServerLevel[world]', x=135.27, y=61.44, z=177.67]
-[22Jan2025 23:42:52.922] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2305, l='ServerLevel[world]', x=132.45, y=65.25, z=176.37]
-[22Jan2025 23:42:52.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2306, l='ServerLevel[world]', x=142.58, y=54.75, z=180.65]
-[22Jan2025 23:42:52.930] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2294, l='ServerLevel[world]', x=143.29, y=56.74, z=178.66]
-[22Jan2025 23:42:52.933] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2295, l='ServerLevel[world]', x=133.35, y=58.43, z=178.71]
-[22Jan2025 23:42:52.938] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2291, l='ServerLevel[world]', x=130.59, y=66.31, z=177.67]
-[22Jan2025 23:42:52.945] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2290, l='ServerLevel[world]', x=129.53, y=66.60, z=177.52]
-[22Jan2025 23:42:52.951] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2322, l='ServerLevel[world]', x=141.32, y=52.30, z=187.49]
-[22Jan2025 23:42:52.952] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2329, l='ServerLevel[world]', x=139.70, y=56.46, z=177.43]
-[22Jan2025 23:42:52.957] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2303, l='ServerLevel[world]', x=134.35, y=58.69, z=177.73]
-[22Jan2025 23:42:52.960] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2328, l='ServerLevel[world]', x=131.53, y=51.53, z=191.52]
-[22Jan2025 23:42:52.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2339, l='ServerLevel[world]', x=135.37, y=52.66, z=183.51]
-[22Jan2025 23:42:52.961] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2289, l='ServerLevel[world]', x=129.41, y=65.72, z=177.32]
-[22Jan2025 23:42:52.962] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2325, l='ServerLevel[world]', x=132.55, y=53.60, z=183.51]
-[22Jan2025 23:42:52.963] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/2327, l='ServerLevel[world]', x=128.52, y=54.52, z=199.30]
-[22Jan2025 23:42:52.970] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2320, l='ServerLevel[world]', x=131.40, y=51.29, z=193.72]
-[22Jan2025 23:42:52.970] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2341, l='ServerLevel[world]', x=129.36, y=52.32, z=195.52]
-[22Jan2025 23:42:52.971] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2316, l='ServerLevel[world]', x=139.44, y=22.58, z=193.35]
-[22Jan2025 23:42:52.971] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2331, l='ServerLevel[world]', x=134.49, y=48.44, z=197.62]
-[22Jan2025 23:42:52.972] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2332, l='ServerLevel[world]', x=134.70, y=48.50, z=193.46]
-[22Jan2025 23:42:52.985] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/2340, l='ServerLevel[world]', x=147.70, y=53.70, z=184.62]
-[22Jan2025 23:42:52.990] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2302, l='ServerLevel[world]', x=144.67, y=58.32, z=179.65]
-[22Jan2025 23:42:52.991] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2298, l='ServerLevel[world]', x=149.31, y=59.62, z=181.49]
-[22Jan2025 23:42:52.991] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2326, l='ServerLevel[world]', x=145.53, y=52.56, z=184.26]
-[22Jan2025 23:42:52.993] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2315, l='ServerLevel[world]', x=152.59, y=59.65, z=185.35]
-[22Jan2025 23:42:52.993] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/2307, l='ServerLevel[world]', x=150.43, y=59.50, z=180.68]
-[22Jan2025 23:42:52.993] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2297, l='ServerLevel[world]', x=144.74, y=59.73, z=176.36]
-[22Jan2025 23:42:52.994] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2304, l='ServerLevel[world]', x=151.73, y=61.30, z=178.69]
-[22Jan2025 23:42:52.998] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2343, l='ServerLevel[world]', x=148.63, y=60.68, z=176.49]
-[22Jan2025 23:42:52.999] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2323, l='ServerLevel[world]', x=144.56, y=52.26, z=201.62]
-[22Jan2025 23:42:53.330] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wladikato (18)
-[22Jan2025 23:42:53.336] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wladikato
-[22Jan2025 23:42:55.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a5d91a8c-5439-3d8c-92c9-bc1c182c7369
-[22Jan2025 23:42:56.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a5d91a8c-5439-3d8c-92c9-bc1c182c7369
-[22Jan2025 23:42:56.215] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wladikato (a5d91a8c-5439-3d8c-92c9-bc1c182c7369) successfully connected to voice chat
-[22Jan2025 23:42:56.715] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2357, l='ServerLevel[world]', x=134.30, y=68.57, z=174.61]
-[22Jan2025 23:42:56.716] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2358, l='ServerLevel[world]', x=141.29, y=70.56, z=171.53]
-[22Jan2025 23:42:56.717] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Stick'/2359, l='ServerLevel[world]', x=154.74, y=68.55, z=180.29]
-[22Jan2025 23:42:56.719] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2360, l='ServerLevel[world]', x=143.75, y=65.61, z=173.49]
-[22Jan2025 23:42:56.720] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2361, l='ServerLevel[world]', x=139.65, y=68.32, z=171.52]
-[22Jan2025 23:42:56.721] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Snowball'/2362, l='ServerLevel[world]', x=131.42, y=70.51, z=171.74]
-[22Jan2025 23:42:56.725] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2363, l='ServerLevel[world]', x=129.41, y=68.63, z=174.53]
-[22Jan2025 23:42:56.726] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2364, l='ServerLevel[world]', x=135.69, y=65.33, z=173.32]
-[22Jan2025 23:42:56.728] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2365, l='ServerLevel[world]', x=134.51, y=64.55, z=174.42]
-[22Jan2025 23:42:56.729] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2366, l='ServerLevel[world]', x=131.71, y=67.74, z=172.28]
-[22Jan2025 23:42:56.731] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2367, l='ServerLevel[world]', x=134.27, y=65.59, z=176.52]
-[22Jan2025 23:42:56.733] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2368, l='ServerLevel[world]', x=133.71, y=50.59, z=192.30]
-[22Jan2025 23:42:56.734] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2369, l='ServerLevel[world]', x=141.28, y=54.48, z=180.50]
-[22Jan2025 23:42:56.735] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2370, l='ServerLevel[world]', x=129.74, y=52.57, z=191.67]
-[22Jan2025 23:42:56.736] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2371, l='ServerLevel[world]', x=142.74, y=57.57, z=177.38]
-[22Jan2025 23:42:56.737] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2372, l='ServerLevel[world]', x=143.68, y=54.42, z=179.53]
-[22Jan2025 23:42:56.739] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2373, l='ServerLevel[world]', x=143.58, y=53.70, z=181.29]
-[22Jan2025 23:42:56.740] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2374, l='ServerLevel[world]', x=127.58, y=55.38, z=197.47]
-[22Jan2025 23:42:56.741] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2375, l='ServerLevel[world]', x=124.40, y=59.60, z=193.25]
-[22Jan2025 23:42:56.742] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2376, l='ServerLevel[world]', x=133.57, y=49.34, z=195.40]
-[22Jan2025 23:42:56.745] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2377, l='ServerLevel[world]', x=140.67, y=51.63, z=183.45]
-[22Jan2025 23:42:56.746] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2378, l='ServerLevel[world]', x=134.68, y=50.38, z=186.28]
-[22Jan2025 23:42:56.747] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2379, l='ServerLevel[world]', x=135.70, y=52.30, z=200.28]
-[22Jan2025 23:42:56.748] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2380, l='ServerLevel[world]', x=128.39, y=52.45, z=196.54]
-[22Jan2025 23:42:56.750] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2381, l='ServerLevel[world]', x=124.27, y=59.38, z=182.27]
-[22Jan2025 23:42:56.752] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2382, l='ServerLevel[world]', x=139.33, y=50.36, z=185.60]
-[22Jan2025 23:42:56.752] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/2383, l='ServerLevel[world]', x=146.40, y=52.74, z=184.28]
-[22Jan2025 23:42:56.753] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2384, l='ServerLevel[world]', x=133.64, y=56.58, z=179.57]
-[22Jan2025 23:42:56.755] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2385, l='ServerLevel[world]', x=130.57, y=60.45, z=179.26]
-[22Jan2025 23:42:56.757] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2386, l='ServerLevel[world]', x=122.72, y=59.37, z=191.59]
-[22Jan2025 23:42:56.758] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2388, l='ServerLevel[world]', x=134.72, y=46.35, z=191.25]
-[22Jan2025 23:42:56.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2390, l='ServerLevel[world]', x=134.49, y=49.49, z=193.46]
-[22Jan2025 23:42:56.761] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2391, l='ServerLevel[world]', x=128.59, y=52.38, z=194.44]
-[22Jan2025 23:42:56.762] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2392, l='ServerLevel[world]', x=142.35, y=53.46, z=180.62]
-[22Jan2025 23:42:56.763] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2393, l='ServerLevel[world]', x=146.65, y=61.64, z=176.57]
-[22Jan2025 23:42:56.765] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2394, l='ServerLevel[world]', x=121.35, y=60.67, z=189.43]
-[22Jan2025 23:42:56.766] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2395, l='ServerLevel[world]', x=142.30, y=56.26, z=178.31]
-[22Jan2025 23:42:56.767] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/2396, l='ServerLevel[world]', x=147.66, y=52.53, z=185.45]
-[22Jan2025 23:42:56.768] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2398, l='ServerLevel[world]', x=150.49, y=57.36, z=183.48]
-[22Jan2025 23:42:56.769] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2399, l='ServerLevel[world]', x=127.52, y=54.46, z=186.56]
-[22Jan2025 23:42:56.770] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2400, l='ServerLevel[world]', x=149.26, y=59.49, z=182.33]
-[22Jan2025 23:42:56.771] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2401, l='ServerLevel[world]', x=150.29, y=59.63, z=179.29]
-[22Jan2025 23:42:56.771] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2402, l='ServerLevel[world]', x=130.33, y=58.67, z=179.28]
-[22Jan2025 23:42:56.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2403, l='ServerLevel[world]', x=132.67, y=52.54, z=181.66]
-[22Jan2025 23:42:56.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2404, l='ServerLevel[world]', x=122.53, y=63.35, z=189.47]
-[22Jan2025 23:42:56.773] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2405, l='ServerLevel[world]', x=144.56, y=56.26, z=178.47]
-[22Jan2025 23:42:56.774] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2406, l='ServerLevel[world]', x=125.51, y=64.68, z=177.48]
-[22Jan2025 23:42:56.775] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2407, l='ServerLevel[world]', x=121.74, y=61.28, z=191.43]
-[22Jan2025 23:42:56.775] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2408, l='ServerLevel[world]', x=125.51, y=59.35, z=195.71]
-[22Jan2025 23:42:56.776] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2409, l='ServerLevel[world]', x=124.64, y=58.63, z=185.32]
-[22Jan2025 23:42:58.733] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2416, l='ServerLevel[world]', x=134.70, y=66.56, z=173.60]
-[22Jan2025 23:42:58.735] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2417, l='ServerLevel[world]', x=130.59, y=68.64, z=173.40]
-[22Jan2025 23:42:58.736] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2418, l='ServerLevel[world]', x=131.44, y=67.48, z=174.52]
-[22Jan2025 23:42:58.736] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Snowball'/2419, l='ServerLevel[world]', x=127.74, y=71.29, z=173.67]
-[22Jan2025 23:42:58.737] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2420, l='ServerLevel[world]', x=132.39, y=68.53, z=173.31]
-[22Jan2025 23:42:58.738] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2421, l='ServerLevel[world]', x=142.58, y=60.60, z=175.28]
-[22Jan2025 23:42:58.739] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2422, l='ServerLevel[world]', x=138.34, y=60.43, z=181.48]
-[22Jan2025 23:42:58.740] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2423, l='ServerLevel[world]', x=133.37, y=50.29, z=199.53]
-[22Jan2025 23:42:58.741] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2424, l='ServerLevel[world]', x=134.57, y=49.34, z=197.65]
-[22Jan2025 23:42:58.742] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2425, l='ServerLevel[world]', x=138.75, y=52.73, z=188.68]
-[22Jan2025 23:42:58.744] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2426, l='ServerLevel[world]', x=134.40, y=61.26, z=176.52]
-[22Jan2025 23:42:58.746] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flint'/2428, l='ServerLevel[world]', x=137.52, y=59.46, z=174.34]
-[22Jan2025 23:42:58.748] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2429, l='ServerLevel[world]', x=138.51, y=56.54, z=182.58]
-[22Jan2025 23:43:00.208] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2435, l='ServerLevel[world]', x=128.48, y=70.40, z=174.34]
-[22Jan2025 23:43:00.210] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2436, l='ServerLevel[world]', x=132.57, y=69.48, z=172.45]
-[22Jan2025 23:43:00.211] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2437, l='ServerLevel[world]', x=128.27, y=67.48, z=174.65]
-[22Jan2025 23:43:00.211] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2438, l='ServerLevel[world]', x=131.31, y=66.30, z=175.27]
-[22Jan2025 23:43:00.212] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2439, l='ServerLevel[world]', x=139.31, y=65.58, z=172.33]
-[22Jan2025 23:43:00.214] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2440, l='ServerLevel[world]', x=130.74, y=67.61, z=176.47]
-[22Jan2025 23:43:00.214] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2441, l='ServerLevel[world]', x=149.31, y=60.64, z=178.63]
-[22Jan2025 23:43:00.215] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2442, l='ServerLevel[world]', x=136.52, y=61.37, z=177.50]
-[22Jan2025 23:43:00.215] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2443, l='ServerLevel[world]', x=134.39, y=50.30, z=192.33]
-[22Jan2025 23:43:00.216] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2444, l='ServerLevel[world]', x=131.65, y=50.49, z=194.43]
-[22Jan2025 23:43:00.217] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2445, l='ServerLevel[world]', x=137.42, y=63.30, z=173.70]
-[22Jan2025 23:43:00.218] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2447, l='ServerLevel[world]', x=147.38, y=50.61, z=187.74]
-[22Jan2025 23:43:00.220] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2448, l='ServerLevel[world]', x=143.47, y=55.61, z=179.73]
-[22Jan2025 23:43:00.220] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2449, l='ServerLevel[world]', x=139.27, y=48.38, z=187.39]
-[22Jan2025 23:43:00.221] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2450, l='ServerLevel[world]', x=147.66, y=56.51, z=182.70]
-[22Jan2025 23:43:00.221] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2451, l='ServerLevel[world]', x=126.56, y=58.60, z=199.42]
-[22Jan2025 23:43:00.224] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2452, l='ServerLevel[world]', x=141.31, y=56.73, z=179.61]
-[22Jan2025 23:43:00.226] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2461, l='ServerLevel[world]', x=135.43, y=33.73, z=192.53]
-[22Jan2025 23:43:00.226] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2462, l='ServerLevel[world]', x=141.62, y=31.41, z=190.41]
-[22Jan2025 23:43:00.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2463, l='ServerLevel[world]', x=134.74, y=30.54, z=189.66]
-[22Jan2025 23:43:00.227] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2464, l='ServerLevel[world]', x=135.36, y=33.50, z=191.39]
-[22Jan2025 23:43:00.229] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2470, l='ServerLevel[world]', x=137.45, y=46.33, z=188.31]
-[22Jan2025 23:43:00.231] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2471, l='ServerLevel[world]', x=140.45, y=46.63, z=189.34]
-[22Jan2025 23:43:00.232] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2472, l='ServerLevel[world]', x=135.64, y=44.50, z=190.34]
-[22Jan2025 23:43:00.232] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2473, l='ServerLevel[world]', x=141.44, y=45.25, z=189.43]
-[22Jan2025 23:43:00.233] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2474, l='ServerLevel[world]', x=142.33, y=45.40, z=189.61]
-[22Jan2025 23:43:00.233] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2475, l='ServerLevel[world]', x=136.60, y=48.68, z=188.59]
-[22Jan2025 23:43:00.233] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2476, l='ServerLevel[world]', x=139.31, y=45.31, z=187.53]
-[22Jan2025 23:43:00.234] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2477, l='ServerLevel[world]', x=134.37, y=44.65, z=190.26]
-[22Jan2025 23:43:00.236] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2478, l='ServerLevel[world]', x=140.55, y=48.63, z=188.70]
-[22Jan2025 23:43:00.237] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2479, l='ServerLevel[world]', x=138.64, y=50.27, z=188.64]
-[22Jan2025 23:43:00.237] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2481, l='ServerLevel[world]', x=139.29, y=47.46, z=186.36]
-[22Jan2025 23:43:00.238] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2484, l='ServerLevel[world]', x=136.38, y=49.35, z=187.62]
-[22Jan2025 23:43:00.239] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2485, l='ServerLevel[world]', x=142.70, y=49.38, z=187.50]
-[22Jan2025 23:43:00.240] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2486, l='ServerLevel[world]', x=144.65, y=60.30, z=175.29]
-[22Jan2025 23:43:00.240] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2487, l='ServerLevel[world]', x=128.75, y=65.56, z=177.67]
-[22Jan2025 23:43:00.242] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2489, l='ServerLevel[world]', x=143.63, y=56.39, z=177.26]
-[22Jan2025 23:43:02.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2490, l='ServerLevel[world]', x=142.25, y=67.47, z=173.40]
-[22Jan2025 23:43:02.132] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2491, l='ServerLevel[world]', x=142.67, y=68.46, z=172.71]
-[22Jan2025 23:43:02.136] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Snowball'/2492, l='ServerLevel[world]', x=131.65, y=71.66, z=170.45]
-[22Jan2025 23:43:02.136] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2493, l='ServerLevel[world]', x=134.47, y=67.60, z=173.48]
-[22Jan2025 23:43:02.137] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2494, l='ServerLevel[world]', x=147.30, y=58.34, z=179.40]
-[22Jan2025 23:43:02.140] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2495, l='ServerLevel[world]', x=132.28, y=57.53, z=179.63]
-[22Jan2025 23:43:02.141] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2496, l='ServerLevel[world]', x=122.56, y=63.65, z=185.40]
-[22Jan2025 23:43:02.142] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2497, l='ServerLevel[world]', x=130.46, y=58.57, z=178.28]
-[22Jan2025 23:43:02.144] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2498, l='ServerLevel[world]', x=136.45, y=61.67, z=176.35]
-[22Jan2025 23:43:02.145] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2499, l='ServerLevel[world]', x=144.47, y=57.41, z=177.51]
-[22Jan2025 23:43:02.146] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Oak Log'/2500, l='ServerLevel[world]', x=122.40, y=65.74, z=185.55]
-[22Jan2025 23:43:02.148] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2501, l='ServerLevel[world]', x=124.56, y=62.50, z=178.39]
-[22Jan2025 23:43:02.149] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2502, l='ServerLevel[world]', x=147.52, y=62.56, z=175.32]
-[22Jan2025 23:43:02.152] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2506, l='ServerLevel[world]', x=148.27, y=52.57, z=189.74]
-[22Jan2025 23:43:02.153] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2507, l='ServerLevel[world]', x=124.45, y=60.37, z=202.58]
-[22Jan2025 23:43:02.154] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2508, l='ServerLevel[world]', x=136.28, y=49.42, z=183.69]
-[22Jan2025 23:43:02.155] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2509, l='ServerLevel[world]', x=143.69, y=55.39, z=178.33]
-[22Jan2025 23:43:02.157] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2511, l='ServerLevel[world]', x=146.61, y=51.35, z=199.66]
-[22Jan2025 23:43:02.159] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2512, l='ServerLevel[world]', x=132.35, y=58.60, z=177.47]
-[22Jan2025 23:43:02.161] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2513, l='ServerLevel[world]', x=126.30, y=52.64, z=189.66]
-[22Jan2025 23:43:02.162] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2514, l='ServerLevel[world]', x=143.31, y=50.55, z=187.41]
-[22Jan2025 23:43:02.163] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2515, l='ServerLevel[world]', x=149.40, y=55.70, z=183.41]
-[22Jan2025 23:43:02.164] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/2516, l='ServerLevel[world]', x=145.27, y=53.56, z=179.25]
-[22Jan2025 23:43:02.166] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2517, l='ServerLevel[world]', x=146.32, y=51.29, z=192.62]
-[22Jan2025 23:43:02.167] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2518, l='ServerLevel[world]', x=137.68, y=58.62, z=174.68]
-[22Jan2025 23:43:02.169] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2519, l='ServerLevel[world]', x=129.49, y=56.46, z=181.71]
-[22Jan2025 23:43:02.170] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2520, l='ServerLevel[world]', x=145.43, y=59.63, z=175.72]
-[22Jan2025 23:43:02.171] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2521, l='ServerLevel[world]', x=154.44, y=61.63, z=184.32]
-[22Jan2025 23:43:02.172] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2522, l='ServerLevel[world]', x=150.66, y=57.46, z=182.66]
-[22Jan2025 23:43:02.174] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2523, l='ServerLevel[world]', x=145.53, y=52.52, z=181.46]
-[22Jan2025 23:43:02.175] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2524, l='ServerLevel[world]', x=143.28, y=48.35, z=187.41]
-[22Jan2025 23:43:02.176] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2525, l='ServerLevel[world]', x=143.47, y=54.72, z=178.59]
-[22Jan2025 23:43:02.178] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2526, l='ServerLevel[world]', x=137.36, y=59.72, z=173.37]
-[22Jan2025 23:43:02.179] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2527, l='ServerLevel[world]', x=150.34, y=55.52, z=185.63]
-[22Jan2025 23:43:02.180] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2528, l='ServerLevel[world]', x=142.63, y=51.33, z=182.65]
-[22Jan2025 23:43:02.181] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2529, l='ServerLevel[world]', x=135.64, y=61.62, z=175.69]
-[22Jan2025 23:43:02.183] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2530, l='ServerLevel[world]', x=129.59, y=57.53, z=179.41]
-[22Jan2025 23:43:02.184] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2531, l='ServerLevel[world]', x=125.50, y=61.64, z=180.65]
-[22Jan2025 23:43:02.186] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2532, l='ServerLevel[world]', x=147.36, y=51.55, z=190.29]
-[22Jan2025 23:43:02.187] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2533, l='ServerLevel[world]', x=135.55, y=57.35, z=175.30]
-[22Jan2025 23:43:02.188] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2534, l='ServerLevel[world]', x=150.31, y=58.65, z=182.55]
-[22Jan2025 23:43:02.189] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2535, l='ServerLevel[world]', x=145.25, y=56.61, z=178.62]
-[22Jan2025 23:43:02.191] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2536, l='ServerLevel[world]', x=144.73, y=58.56, z=176.75]
-[22Jan2025 23:43:02.193] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2537, l='ServerLevel[world]', x=128.60, y=52.40, z=195.68]
-[22Jan2025 23:43:02.197] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2543, l='ServerLevel[world]', x=138.62, y=51.62, z=187.60]
-[22Jan2025 23:43:02.198] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2544, l='ServerLevel[world]', x=138.55, y=52.45, z=186.54]
-[22Jan2025 23:43:02.200] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2545, l='ServerLevel[world]', x=138.42, y=51.38, z=186.27]
-[22Jan2025 23:43:02.202] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2546, l='ServerLevel[world]', x=138.46, y=58.55, z=181.45]
-[22Jan2025 23:43:03.533] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2547, l='ServerLevel[world]', x=128.37, y=69.66, z=174.59]
-[22Jan2025 23:43:03.534] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2548, l='ServerLevel[world]', x=127.43, y=70.29, z=172.43]
-[22Jan2025 23:43:03.535] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2549, l='ServerLevel[world]', x=133.28, y=65.36, z=175.60]
-[22Jan2025 23:43:03.536] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Snowball'/2550, l='ServerLevel[world]', x=128.50, y=72.66, z=171.62]
-[22Jan2025 23:43:03.536] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2551, l='ServerLevel[world]', x=142.51, y=65.50, z=173.48]
-[22Jan2025 23:43:03.537] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2552, l='ServerLevel[world]', x=136.31, y=61.58, z=175.71]
-[22Jan2025 23:43:03.538] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2553, l='ServerLevel[world]', x=149.47, y=65.55, z=174.69]
-[22Jan2025 23:43:03.539] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2554, l='ServerLevel[world]', x=142.42, y=61.56, z=174.46]
-[22Jan2025 23:43:03.540] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2555, l='ServerLevel[world]', x=133.62, y=58.41, z=177.72]
-[22Jan2025 23:43:03.541] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2557, l='ServerLevel[world]', x=131.42, y=65.38, z=175.34]
-[22Jan2025 23:43:03.541] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2558, l='ServerLevel[world]', x=133.52, y=62.39, z=177.36]
-[22Jan2025 23:43:03.542] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2559, l='ServerLevel[world]', x=142.46, y=62.47, z=174.36]
-[22Jan2025 23:43:03.543] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2560, l='ServerLevel[world]', x=132.74, y=64.27, z=175.47]
-[22Jan2025 23:43:03.544] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2562, l='ServerLevel[world]', x=136.39, y=18.70, z=198.72]
-[22Jan2025 23:43:03.545] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2563, l='ServerLevel[world]', x=137.52, y=19.46, z=195.67]
-[22Jan2025 23:43:03.545] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2564, l='ServerLevel[world]', x=140.70, y=19.64, z=197.38]
-[22Jan2025 23:43:03.556] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2578, l='ServerLevel[world]', x=142.25, y=46.29, z=187.32]
-[22Jan2025 23:43:03.561] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2579, l='ServerLevel[world]', x=142.67, y=45.57, z=188.27]
-[22Jan2025 23:43:03.562] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2580, l='ServerLevel[world]', x=138.41, y=47.45, z=185.42]
-[22Jan2025 23:43:03.563] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2581, l='ServerLevel[world]', x=139.35, y=43.72, z=188.72]
-[22Jan2025 23:43:03.564] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2583, l='ServerLevel[world]', x=121.60, y=63.51, z=187.28]
-[22Jan2025 23:43:03.564] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2584, l='ServerLevel[world]', x=127.30, y=62.35, z=178.26]
-[22Jan2025 23:43:03.565] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2585, l='ServerLevel[world]', x=147.59, y=65.59, z=174.53]
-[22Jan2025 23:43:03.566] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2586, l='ServerLevel[world]', x=128.66, y=55.44, z=180.66]
-[22Jan2025 23:43:03.567] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2587, l='ServerLevel[world]', x=124.44, y=59.43, z=194.39]
-[22Jan2025 23:43:03.569] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2588, l='ServerLevel[world]', x=129.55, y=58.52, z=179.27]
-[22Jan2025 23:43:03.570] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2589, l='ServerLevel[world]', x=143.71, y=54.65, z=177.48]
-[22Jan2025 23:43:03.571] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2590, l='ServerLevel[world]', x=146.70, y=50.43, z=190.54]
-[22Jan2025 23:43:03.571] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flint'/2591, l='ServerLevel[world]', x=133.70, y=59.52, z=175.71]
-[22Jan2025 23:43:04.805] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2599, l='ServerLevel[world]', x=142.56, y=66.32, z=172.30]
-[22Jan2025 23:43:04.806] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2600, l='ServerLevel[world]', x=144.60, y=66.34, z=172.62]
-[22Jan2025 23:43:04.807] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2601, l='ServerLevel[world]', x=140.33, y=65.31, z=173.30]
-[22Jan2025 23:43:04.809] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2602, l='ServerLevel[world]', x=134.71, y=65.37, z=173.57]
-[22Jan2025 23:43:04.809] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2603, l='ServerLevel[world]', x=129.54, y=67.28, z=175.51]
-[22Jan2025 23:43:04.811] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2606, l='ServerLevel[world]', x=138.67, y=52.33, z=185.50]
-[22Jan2025 23:43:04.815] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Iron Ore'/2615, l='ServerLevel[world]', x=144.33, y=53.69, z=179.65]
-[22Jan2025 23:43:04.816] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2616, l='ServerLevel[world]', x=125.69, y=58.25, z=186.45]
-[22Jan2025 23:43:04.817] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2617, l='ServerLevel[world]', x=135.28, y=58.33, z=175.35]
-[22Jan2025 23:43:04.824] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2618, l='ServerLevel[world]', x=133.58, y=55.62, z=177.52]
-[22Jan2025 23:43:05.130] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: A single server tick took 60.00 seconds (should be max 0.05)
-[22Jan2025 23:43:05.131] [Server Watchdog/FATAL] [net.minecraft.server.dedicated.ServerHangWatchdog/]: Considering it to be crashed, server will forcibly shutdown.
-[22Jan2025 23:43:05.842] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID deb053f1-5a1d-49ef-9e37-37c7b069a4db
-[22Jan2025 23:43:05.862] [Server Watchdog/INFO] [STDOUT/]: [net.minecraft.util.registry.Bootstrap:func_179870_a:123]: Crash report:
----- Minecraft Crash Report ----
-// Why is it breaking :(
-
-Time: 1/22/25, 11:43 PM
-Description: Watching Server
-
-java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
-	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.find(Long2ObjectOpenHashMap.java:262) ~[?:?] {re:classloading}
-	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.computeIfAbsent(Long2ObjectOpenHashMap.java:476) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.TicketManager.func_229848_e_(TicketManager.java:200) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.TicketManager.func_219347_a(TicketManager.java:140) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.TicketManager.func_219356_a(TicketManager.java:174) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.ServerChunkProvider.func_217233_c(ServerChunkProvider.java:217) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerChunkProvider.func_212849_a_(ServerChunkProvider.java:134) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.World.func_217353_a(World.java:167) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.IWorldReader.func_217348_a(IWorldReader.java:112) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.World.func_212866_a_(World.java:163) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.World.func_180495_p(World.java:379) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.Explosion.func_77279_a(Explosion.java:238) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld.func_230546_a_(ServerWorld.java:1041) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.World.func_217385_a(World.java:566) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.entity.item.minecart.TNTMinecartEntity.func_94103_c(SourceFile:102) ~[?:?] {re:classloading}
-	at net.minecraft.entity.item.minecart.TNTMinecartEntity.func_70071_h_(SourceFile:53) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:612) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld$$Lambda$5125/0x0000000840ea8040.accept(Unknown Source) ~[?:?] {}
-	at net.minecraft.world.World.func_217390_a(World.java:554) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?] {re:classloading,pl:accesstransformer:B}
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer$$Lambda$4438/0x0000000840ceac40.run(Unknown Source) ~[?:?] {}
-	at java.lang.Thread.run(Thread.java:829) [?:?] {}
-
-
-A detailed walkthrough of the error, its code path and all known details is as follows:
----------------------------------------------------------------------------------------
-
--- Head --
-Thread: Server Watchdog
-Stacktrace:
-	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.find(Long2ObjectOpenHashMap.java:262) ~[?:?] {re:classloading}
-	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.computeIfAbsent(Long2ObjectOpenHashMap.java:476) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.TicketManager.func_229848_e_(TicketManager.java:200) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.TicketManager.func_219347_a(TicketManager.java:140) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.TicketManager.func_219356_a(TicketManager.java:174) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.ServerChunkProvider.func_217233_c(ServerChunkProvider.java:217) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerChunkProvider.func_212849_a_(ServerChunkProvider.java:134) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.World.func_217353_a(World.java:167) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.IWorldReader.func_217348_a(IWorldReader.java:112) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.World.func_212866_a_(World.java:163) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.World.func_180495_p(World.java:379) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.Explosion.func_77279_a(Explosion.java:238) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld.func_230546_a_(ServerWorld.java:1041) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.World.func_217385_a(World.java:566) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.entity.item.minecart.TNTMinecartEntity.func_94103_c(SourceFile:102) ~[?:?] {re:classloading}
-	at net.minecraft.entity.item.minecart.TNTMinecartEntity.func_70071_h_(SourceFile:53) ~[?:?] {re:classloading}
-	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:612) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld$$Lambda$5125/0x0000000840ea8040.accept(Unknown Source) ~[?:?] {}
-	at net.minecraft.world.World.func_217390_a(World.java:554) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?] {re:classloading,pl:accesstransformer:B}
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
--- Thread Dump --
-Details:
-	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
-	at java.base@11.0.25/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
-	at java.base@11.0.25/java.lang.ref.Reference.processPendingReferences(Reference.java:241)
-	at java.base@11.0.25/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:213)
-
-
-"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@44d48169
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@44d48169
-	at java.base@11.0.25/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at java.base@11.0.25/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
-	at java.base@11.0.25/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:170)
-
-
-"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
-
-
-"Common-Cleaner" daemon prio=8 Id=9 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@4a137783
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@4a137783
-	at java.base@11.0.25/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at java.base@11.0.25/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:148)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-	at java.base@11.0.25/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:161)
-
-
-"ForkJoinPool.commonPool-worker-3" daemon prio=5 Id=17 WAITING on java.util.concurrent.ForkJoinPool@4e2cea19
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@4e2cea19
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Thread-0" daemon prio=5 Id=18 TIMED_WAITING
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:357)
-	at app//com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:190)
-
-
-"FileSystemWatchService" daemon prio=5 Id=19 RUNNABLE (in native)
-	at java.base@11.0.25/sun.nio.fs.LinuxWatchService.poll(Native Method)
-	at java.base@11.0.25/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Worker-Bootstrap-1" daemon prio=5 Id=21 RUNNABLE
-	at com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:567)
-	at com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:567)
-	at com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:567)
-	at com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:567)
-	at com.mojang.datafixers.functions.Apply.one(Apply.java:45)
-	at com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651)
-	at com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571)
-	at com.mojang.datafixers.functions.Comp.one(Comp.java:43)
-	...
-
-
-"Timer hack thread" daemon prio=5 Id=22 TIMED_WAITING
-	at java.base@11.0.25/java.lang.Thread.sleep(Native Method)
-	at net.minecraft.util.Util$6.run(Util.java:505)
-
-
-"modloading-worker-1" daemon prio=5 Id=23 WAITING on java.util.concurrent.ForkJoinPool@b2e7db8
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@b2e7db8
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"ConfigSaver" daemon prio=5 Id=26 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6b117a7d
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@6b117a7d
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2081)
-	at java.base@11.0.25/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:433)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1054)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Worker-Main-2" daemon prio=5 Id=30 WAITING on java.util.concurrent.ForkJoinPool@3aefb7f3
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.ForkJoinPool@3aefb7f3
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.park(LockSupport.java:194)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1628)
-	at java.base@11.0.25/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
-
-
-"Snooper Timer" daemon prio=5 Id=32 WAITING on java.util.TaskQueue@133aee95
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.util.TaskQueue@133aee95
-	at java.base@11.0.25/java.lang.Object.wait(Object.java:328)
-	at java.base@11.0.25/java.util.TimerThread.mainLoop(Timer.java:527)
-	at java.base@11.0.25/java.util.TimerThread.run(Timer.java:506)
-
-
-"Server thread" prio=5 Id=31 RUNNABLE
-	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.find(Long2ObjectOpenHashMap.java:262)
-	at it.unimi.dsi.fastutil.longs.Long2ObjectOpenHashMap.computeIfAbsent(Long2ObjectOpenHashMap.java:476)
-	at net.minecraft.world.server.TicketManager.func_229848_e_(TicketManager.java:200)
-	at net.minecraft.world.server.TicketManager.func_219347_a(TicketManager.java:140)
-	at net.minecraft.world.server.TicketManager.func_219356_a(TicketManager.java:174)
-	at net.minecraft.world.server.ServerChunkProvider.func_217233_c(ServerChunkProvider.java:217)
-	at net.minecraft.world.server.ServerChunkProvider.func_212849_a_(ServerChunkProvider.java:134)
-	at net.minecraft.world.World.func_217353_a(World.java:167)
-	...
-
-
-"DestroyJavaVM" prio=5 Id=34 RUNNABLE
-
-
-"Server console handler" daemon prio=5 Id=35 RUNNABLE
-	at java.base@11.0.25/java.io.FileInputStream.read0(Native Method)
-	at java.base@11.0.25/java.io.FileInputStream.read(FileInputStream.java:231)
-	at app//org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
-	at app//org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
-	at app//org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
-	at app//org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
-	at app//org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
-	at app//org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
-	...
-
-
-"ObjectCleanerThread" daemon prio=1 Id=36 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@6b0182f7
-	at java.base@11.0.25/java.lang.Object.wait(Native Method)
-	-  waiting on java.lang.ref.ReferenceQueue$Lock@6b0182f7
-	at java.base@11.0.25/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
-	at app//io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
-	at app//io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #0" daemon prio=5 Id=37 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"FileSystemWatchService" daemon prio=5 Id=38 RUNNABLE (in native)
-	at java.base@11.0.25/sun.nio.fs.LinuxWatchService.poll(Native Method)
-	at java.base@11.0.25/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:316)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #1" daemon prio=5 Id=39 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #2" daemon prio=5 Id=42 RUNNABLE
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Netty Epoll Server IO #3" daemon prio=5 Id=46 RUNNABLE (in native)
-	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
-	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
-	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
-	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
-	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"Server Watchdog" daemon prio=5 Id=47 RUNNABLE
-	at java.management@11.0.25/sun.management.ThreadImpl.dumpThreads0(Native Method)
-	at java.management@11.0.25/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
-	at java.management@11.0.25/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:516)
-	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:41)
-	at java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-
-
-"VoiceChatPacketProcessingThread" daemon prio=5 Id=49 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@b23df78
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@b23df78
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2123)
-	at java.base@11.0.25/java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:458)
-	at de.maxhenkel.voicechat.voice.server.Server$ProcessThread.run(Server.java:234)
-
-
-"VoiceChatServerThread" daemon prio=5 Id=48 RUNNABLE (in native)
-	at java.base@11.0.25/java.net.PlainDatagramSocketImpl.receive0(Native Method)
-	-  locked java.net.PlainDatagramSocketImpl@4c34b1c0
-	at java.base@11.0.25/java.net.AbstractPlainDatagramSocketImpl.receive(AbstractPlainDatagramSocketImpl.java:200)
-	-  locked java.net.PlainDatagramSocketImpl@4c34b1c0
-	at java.base@11.0.25/java.net.DatagramSocket.receive(DatagramSocket.java:814)
-	-  locked java.net.DatagramPacket@83ea095
-	-  locked java.net.DatagramSocket@6f4f9d5f
-	at de.maxhenkel.voicechat.plugins.impl.VoicechatSocketBase.read(VoicechatSocketBase.java:13)
-	at de.maxhenkel.voicechat.plugins.impl.VoicechatSocketImpl.read(VoicechatSocketImpl.java:72)
-	at de.maxhenkel.voicechat.voice.server.Server.run(Server.java:112)
-
-
-"IO-Worker-8" prio=5 Id=50 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@7a0247d1
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@7a0247d1
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-"IO-Worker-9" prio=5 Id=51 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@7a0247d1
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@7a0247d1
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-"IO-Worker-10" prio=5 Id=52 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@7a0247d1
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@7a0247d1
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-"IO-Worker-11" prio=5 Id=53 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@7a0247d1
-	at java.base@11.0.25/jdk.internal.misc.Unsafe.park(Native Method)
-	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@7a0247d1
-	at java.base@11.0.25/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:234)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
-	at java.base@11.0.25/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1053)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1114)
-	at java.base@11.0.25/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
-	...
-
-
-
-Stacktrace:
-	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:56) [?:?] {re:classloading}
-	at java.lang.Thread.run(Thread.java:829) [?:?] {}
-
-
--- Performance stats --
-Details:
-	Random tick rate: 3
-	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 572 [minecraft:tnt_minecart:334,minecraft:item:51,minecraft:creeper:21,minecraft:chicken:19,minecraft:skeleton:19], block_entities: 26 [minecraft:chest:13,minecraft:mob_spawner:10,minecraft:beehive:3], block_ticks: 3410, fluid_ticks: 13, chunk_source: ServerChunkCache: 2229,
-ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0,
-ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0
-
--- System Details --
-Details:
-	Minecraft Version: 1.16.5
-	Minecraft Version ID: 1.16.5
-	Operating System: Linux (amd64) version 6.5.0-1025-azure
-	Java Version: 11.0.25, Ubuntu
-	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
-	Memory: 956540928 bytes (912 MB) / 2673868800 bytes (2550 MB) up to 6442450944 bytes (6144 MB)
-	CPUs: 2
-	JVM Flags: 2 total; -Xms2G -Xmx6G
-	ModLauncher: 8.1.3+8.1.3+main-8.1.x.c94d18ec
-	ModLauncher launch target: fmlserver
-	ModLauncher naming: srg
-	ModLauncher services: 
-		/mixin-0.8.4.jar mixin PLUGINSERVICE 
-		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
-		/forge-1.16.5-36.2.42.jar object_holder_definalize PLUGINSERVICE 
-		/forge-1.16.5-36.2.42.jar runtime_enum_extender PLUGINSERVICE 
-		/forge-1.16.5-36.2.42.jar capability_inject_definalize PLUGINSERVICE 
-		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
-		/forge-1.16.5-36.2.42.jar runtimedistcleaner PLUGINSERVICE 
-		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
-		/forge-1.16.5-36.2.42.jar fml TRANSFORMATIONSERVICE 
-	FML: 36.2
-	Forge: net.minecraftforge:36.2.42
-	FML Language Providers: 
-		javafml@36.2
-		minecraft@1
-	Mod List: 
-		forge-1.16.5-36.2.42-server.jar                   |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: NOSIGNATURE
-		voicechat-forge-1.16.5-2.5.27.jar                 |Simple Voice Chat             |voicechat                     |1.16.5-2.5.27       |DONE      |Manifest: NOSIGNATURE
-		forge-1.16.5-36.2.42-universal.jar                |Forge                         |forge                         |36.2.42             |DONE      |Manifest: 22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
-	Crash Report UUID: deb053f1-5a1d-49ef-9e37-37c7b069a4db
-	Player Count: 1 / 20; [ServerPlayerEntity['wladikato'/2355, l='ServerLevel[world]', x=146.72, y=72.98, z=193.64]]
-	Data Packs: vanilla, mod:forge, mod:voicechat
-	Is Modded: Definitely; Server brand changed to 'forge'
-	Type: Dedicated Server (map_server.txt)
-[22Jan2025 23:43:05.902] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerHangWatchdog/]: This crash report has been saved to: /workspaces/sisisiqrico/servidor_minecraft/./crash-reports/crash-2025-01-22_23.43.05-server.txt
-[22Jan2025 23:43:06.657] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2621, l='ServerLevel[world]', x=140.69, y=68.36, z=172.68]
-[22Jan2025 23:43:06.658] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2622, l='ServerLevel[world]', x=142.30, y=67.52, z=171.74]
-[22Jan2025 23:43:06.658] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2623, l='ServerLevel[world]', x=140.63, y=71.40, z=172.68]
-[22Jan2025 23:43:06.659] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2624, l='ServerLevel[world]', x=134.46, y=67.49, z=171.69]
-[22Jan2025 23:43:06.659] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2625, l='ServerLevel[world]', x=141.65, y=68.26, z=170.60]
-[22Jan2025 23:43:06.660] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2626, l='ServerLevel[world]', x=138.74, y=61.32, z=179.55]
-[22Jan2025 23:43:06.661] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2627, l='ServerLevel[world]', x=146.43, y=65.46, z=173.64]
-[22Jan2025 23:43:06.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2628, l='ServerLevel[world]', x=130.34, y=60.48, z=176.49]
-[22Jan2025 23:43:06.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2629, l='ServerLevel[world]', x=134.71, y=64.56, z=175.54]
-[22Jan2025 23:43:06.664] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2630, l='ServerLevel[world]', x=127.33, y=59.29, z=180.64]
-[22Jan2025 23:43:06.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2631, l='ServerLevel[world]', x=143.29, y=53.71, z=179.67]
-[22Jan2025 23:43:06.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2632, l='ServerLevel[world]', x=150.68, y=57.52, z=181.28]
-[22Jan2025 23:43:06.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2633, l='ServerLevel[world]', x=142.65, y=58.49, z=175.35]
-[22Jan2025 23:43:06.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2634, l='ServerLevel[world]', x=149.61, y=62.70, z=176.43]
-[22Jan2025 23:43:06.667] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2635, l='ServerLevel[world]', x=138.70, y=55.48, z=181.27]
-[22Jan2025 23:43:06.669] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2636, l='ServerLevel[world]', x=146.50, y=50.70, z=184.72]
-[22Jan2025 23:43:06.671] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2637, l='ServerLevel[world]', x=135.75, y=63.70, z=173.72]
-[22Jan2025 23:43:06.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2638, l='ServerLevel[world]', x=136.33, y=58.56, z=176.60]
-[22Jan2025 23:43:06.672] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2639, l='ServerLevel[world]', x=137.68, y=58.31, z=173.68]
-[22Jan2025 23:43:06.675] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2640, l='ServerLevel[world]', x=143.57, y=57.40, z=177.32]
-[22Jan2025 23:43:06.682] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2641, l='ServerLevel[world]', x=148.44, y=55.44, z=180.52]
-[22Jan2025 23:43:06.682] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2642, l='ServerLevel[world]', x=140.39, y=50.45, z=180.26]
-[22Jan2025 23:43:06.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Coal'/2643, l='ServerLevel[world]', x=142.67, y=54.71, z=178.52]
-[22Jan2025 23:43:06.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2651, l='ServerLevel[world]', x=140.38, y=42.37, z=187.35]
-[22Jan2025 23:43:06.683] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2653, l='ServerLevel[world]', x=142.56, y=44.48, z=188.61]
-[22Jan2025 23:43:06.684] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2654, l='ServerLevel[world]', x=135.44, y=42.47, z=188.28]
-[22Jan2025 23:43:06.684] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2655, l='ServerLevel[world]', x=138.44, y=49.52, z=186.37]
-[22Jan2025 23:43:06.685] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2656, l='ServerLevel[world]', x=142.27, y=47.38, z=187.59]
-[22Jan2025 23:43:06.686] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2657, l='ServerLevel[world]', x=138.29, y=48.72, z=185.73]
-[22Jan2025 23:43:06.686] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2658, l='ServerLevel[world]', x=132.30, y=65.46, z=175.53]
-[22Jan2025 23:43:06.688] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2659, l='ServerLevel[world]', x=126.34, y=64.54, z=176.68]
-[22Jan2025 23:43:06.689] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2660, l='ServerLevel[world]', x=152.50, y=58.64, z=188.47]
-[22Jan2025 23:43:06.689] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Dirt'/2661, l='ServerLevel[world]', x=147.68, y=62.28, z=174.41]
-[22Jan2025 23:43:06.690] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2662, l='ServerLevel[world]', x=135.57, y=58.67, z=174.71]
-[22Jan2025 23:43:06.691] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Granite'/2663, l='ServerLevel[world]', x=130.57, y=56.63, z=178.63]
-[22Jan2025 23:43:06.692] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Andesite'/2664, l='ServerLevel[world]', x=145.70, y=56.51, z=177.72]
-[22Jan2025 23:43:06.692] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Diorite'/2665, l='ServerLevel[world]', x=148.31, y=55.38, z=181.58]
-[22Jan2025 23:43:06.693] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2666, l='ServerLevel[world]', x=136.29, y=55.63, z=176.63]
-[22Jan2025 23:43:06.694] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2667, l='ServerLevel[world]', x=141.59, y=50.58, z=184.59]
-[22Jan2025 23:43:06.696] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2668, l='ServerLevel[world]', x=135.72, y=60.45, z=175.37]
-[22Jan2025 23:43:06.696] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Flint'/2670, l='ServerLevel[world]', x=120.28, y=59.51, z=190.51]
-[22Jan2025 23:43:06.697] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2671, l='ServerLevel[world]', x=128.70, y=53.44, z=184.48]
-[22Jan2025 23:43:06.697] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/2672, l='ServerLevel[world]', x=135.56, y=63.50, z=174.49]
-[22Jan2025 23:43:06.698] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Gravel'/2673, l='ServerLevel[world]', x=135.73, y=57.60, z=174.70]
-[22Jan2025 23:43:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[22Jan2025 23:43:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[22Jan2025 23:43:06.769] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: wladikato lost connection: Server closed
-[22Jan2025 23:43:06.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato left the game
-[22Jan2025 23:43:06.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[22Jan2025 23:43:06.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22Jan2025 23:43:08.703] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22Jan2025 23:43:08.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22Jan2025 23:43:08.706] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jan2025 23:43:08.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22Jan2025 23:43:08.712] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Jan2025 23:43:08.763] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22Jan2025 23:43:08.780] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jan2025 23:43:08.781] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jan2025 23:43:55.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Jan2025 23:43:55.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[22Jan2025 23:43:58.877] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Jan2025 23:43:59.984] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22Jan2025 23:43:59.986] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Jan2025 23:43:59.990] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Jan2025 23:43:59.992] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22Jan2025 23:43:59.998] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22Jan2025 23:44:00.000] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22Jan2025 23:44:00.004] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, voicechat-forge-1.16.5-2.5.27.jar
+[22Jan2025 23:44:01.879] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[22Jan2025 23:44:02.717] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[22Jan2025 23:44:05.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[22Jan2025 23:44:05.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Jan2025 23:44:05.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Jan2025 23:44:05.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Jan2025 23:44:06.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Jan2025 23:44:06.394] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[22Jan2025 23:44:06.568] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Jan2025 23:44:06.569] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Jan2025 23:44:06.570] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Jan2025 23:44:06.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Jan2025 23:44:06.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Jan2025 23:44:06.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Jan2025 23:44:08.622] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22Jan2025 23:44:08.623] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22Jan2025 23:44:08.623] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22Jan2025 23:44:08.624] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22Jan2025 23:44:09.114] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[22Jan2025 23:44:13.122] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[22Jan2025 23:44:13.337] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:13.351] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:13.352] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:13.353] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:13.353] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:13.353] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:13.354] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:13.355] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:13.356] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
+[22Jan2025 23:44:15.017] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
+[22Jan2025 23:44:15.020] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
+[22Jan2025 23:44:15.024] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
+[22Jan2025 23:44:15.355] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 48%
+[22Jan2025 23:44:15.854] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[22Jan2025 23:44:16.348] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[22Jan2025 23:44:16.842] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[22Jan2025 23:44:17.357] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
+[22Jan2025 23:44:17.862] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
+[22Jan2025 23:44:17.919] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[22Jan2025 23:44:18.354] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[22Jan2025 23:44:18.849] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
+[22Jan2025 23:44:19.369] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 12529 ms
+[22Jan2025 23:44:19.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.769s)! For help, type "help"
+[22Jan2025 23:44:19.390] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22Jan2025 23:44:19.436] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'america-premises.gl.at.ply.gg:4013'
+[22Jan2025 23:44:19.446] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 64098
+[22Jan2025 23:44:22.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[22Jan2025 23:44:28.266] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23e2a5ab
+[22Jan2025 23:44:28.314] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: wladikato[/127.227.31.128:60193] logged in with entity id 641 at (146.72027431515514, 72.98412785382013, 193.6354862223366)
+[22Jan2025 23:44:28.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato joined the game
+[22Jan2025 23:44:28.897] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wladikato (18)
+[22Jan2025 23:44:28.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wladikato
+[22Jan2025 23:44:29.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a5d91a8c-5439-3d8c-92c9-bc1c182c7369
+[22Jan2025 23:44:30.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a5d91a8c-5439-3d8c-92c9-bc1c182c7369
+[22Jan2025 23:44:30.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wladikato (a5d91a8c-5439-3d8c-92c9-bc1c182c7369) successfully connected to voice chat
+[22Jan2025 23:44:36.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@35ab40f3
+[22Jan2025 23:44:36.645] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matiroxd64[/127.250.12.205:39965] logged in with entity id 722 at (139.82534260233825, 73.03144147556242, 188.79202825913012)
+[22Jan2025 23:44:36.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 joined the game
+[22Jan2025 23:44:37.158] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Matiroxd64 (18)
+[22Jan2025 23:44:37.168] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Matiroxd64
+[22Jan2025 23:44:38.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 96c4e9f8-6f52-3cb3-9af9-b3932d609c17
+[22Jan2025 23:44:39.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 96c4e9f8-6f52-3cb3-9af9-b3932d609c17
+[22Jan2025 23:44:39.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Matiroxd64 (96c4e9f8-6f52-3cb3-9af9-b3932d609c17) successfully connected to voice chat
+[22Jan2025 23:44:41.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3322ms or 66 ticks behind
+[22Jan2025 23:46:07.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Survival Mode]
+[22Jan2025 23:46:23.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set own game mode to Survival Mode]
+[22Jan2025 23:46:25.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 fell from a high place
+[22Jan2025 23:46:31.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
+[22Jan2025 23:47:14.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set own game mode to Creative Mode]
+[22Jan2025 23:47:21.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Hot Stuff]
+[22Jan2025 23:47:40.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato was doomed to fall
+[22Jan2025 23:47:51.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
+[22Jan2025 23:47:53.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
+[22Jan2025 23:47:59.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
+[22Jan2025 23:48:25.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato has made the advancement [Monster Hunter]
+[22Jan2025 23:49:09.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
+[22Jan2025 23:49:09.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set the time to 1000]
+[22Jan2025 23:49:17.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
+[22Jan2025 23:49:29.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
+[22Jan2025 23:49:39.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
+[22Jan2025 23:51:04.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Monster Hunter]
+[22Jan2025 23:52:02.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Ice Bucket Challenge]
+[22Jan2025 23:52:37.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [We Need to Go Deeper]
+[22Jan2025 23:52:44.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Creative Mode]
+[22Jan2025 23:52:50.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato has made the advancement [Ice Bucket Challenge]
+[22Jan2025 23:53:04.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
+[22Jan2025 23:53:29.035] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matiroxd64 lost connection: Disconnected
+[22Jan2025 23:53:29.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 left the game
+[22Jan2025 23:53:29.039] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Matiroxd64
+[22Jan2025 23:53:31.484] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: wladikato lost connection: Disconnected
+[22Jan2025 23:53:31.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato left the game
+[22Jan2025 23:53:31.486] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wladikato
+[22Jan2025 23:54:10.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[22Jan2025 23:54:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jan2025 23:54:10.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jan2025 23:54:10.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jan2025 23:54:10.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jan2025 23:54:10.891] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jan2025 23:54:10.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jan2025 23:54:10.893] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jan2025 23:54:10.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jan2025 23:54:10.895] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jan2025 23:54:10.920] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jan2025 23:54:10.928] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jan2025 23:54:10.933] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
