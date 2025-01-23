@@ -1090,3 +1090,28 @@ java.lang.NullPointerException: null
 [23Jan2025 00:44:36.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Copy]
 [23Jan2025 00:44:36.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has reached the goal [Rika's Control]
 [23Jan2025 00:44:50.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has completed the challenge [Special Grade Sorcerer]
+[23Jan2025 00:46:54.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Creative Mode]
+[23Jan2025 00:48:15.595] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 00:48:15.601] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 00:49:23.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 died because of Eight Handled Swrod Divergent Sila Divine General Mahoraga
+[23Jan2025 00:49:30.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
+[23Jan2025 00:49:34.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set own game mode to Creative Mode]
+[23Jan2025 00:49:43.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Insect]
+[23Jan2025 00:49:56.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set own game mode to Survival Mode]
+[23Jan2025 00:50:47.253] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matiroxd64 moved too quickly! -4.188101993019814,1.3964730054205745,9.008879124261142
+[23Jan2025 00:51:06.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato has reached the goal [Reverse Cursed Technique Lv2]
+[23Jan2025 00:51:41.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 died because of Eight Handled Swrod Divergent Sila Divine General Mahoraga
+[23Jan2025 00:52:19.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set own game mode to Creative Mode]
+[23Jan2025 00:52:48.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has reached the goal [Reverse Cursed Technique Lv1]
+[23Jan2025 00:52:48.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Cursed Technique Reversal: Red]
+[23Jan2025 00:52:48.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has reached the goal [Hollow Technique: Purple]
+[23Jan2025 00:52:50.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato has made the advancement [Force to submit the Great Serpent]
+[23Jan2025 00:52:55.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set own game mode to Survival Mode]
+[23Jan2025 00:53:15.940] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23Jan2025 00:53:15.946] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23Jan2025 00:53:15.969] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matiroxd64 moved too quickly! 0.27664926289580194,0.4763294009843122,-12.888102319558413
+[23Jan2025 00:54:29.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has reached the goal [Reverse Cursed Technique Lv2]
+[23Jan2025 00:54:53.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 died because of Eight Handled Swrod Divergent Sila Divine General Mahoraga
+[23Jan2025 00:55:10.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Teleported Matiroxd64 to wladikato]
+[23Jan2025 00:55:14.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has reached the goal [The Boxer]
+[23Jan2025 00:55:15.865] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Matiroxd64 moved wrongly!

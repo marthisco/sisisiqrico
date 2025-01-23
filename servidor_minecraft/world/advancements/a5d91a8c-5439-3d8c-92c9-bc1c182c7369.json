@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_great_serpent": {
+    "criteria": {
+      "skill_great_serpent": "2025-01-23 00:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-01-22 23:16:54 +0000"
@@ -626,6 +632,12 @@
     },
     "done": true
   },
+  "jujutsucraft:reverse_cursed_technique_2": {
+    "criteria": {
+      "reverse_cursed_technique_2": "2025-01-23 00:51:06 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:reverse_cursed_technique_1": {
     "criteria": {
       "reverse_cursed_technique_1": "2025-01-23 00:14:19 +0000"
@@ -659,6 +671,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-01-23 00:28:38 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_simple_domain": {
+    "criteria": {
+      "mastery_simple_domain": "2025-01-23 00:44:22 +0000"
     },
     "done": true
   },
