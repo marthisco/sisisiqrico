@@ -1,13 +1,13 @@
 {
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-22 23:16:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-22 23:18:52 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_panda": {
+    "criteria": {
+      "battle_panda": "2025-01-23 00:22:42 +0000"
     },
     "done": true
   },
@@ -23,27 +23,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-01-22 23:36:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-01-22 23:48:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-01-22 23:16:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_double_plant": "2025-01-22 23:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
     },
     "done": true
   },
@@ -53,53 +47,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-22 23:20:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-01-22 23:20:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-01-22 23:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-01-22 23:20:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-01-22 23:23:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-01-22 23:13:32 +0000",
-      "minecraft:snowy_tundra": "2025-01-22 23:45:15 +0000",
-      "minecraft:wooded_hills": "2025-01-22 23:30:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-01-22 23:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-01-22 23:15:57 +0000"
     },
     "done": true
   },
@@ -115,15 +65,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "jujutsucraft:skill_cursed_technique_lapse_blue": {
     "criteria": {
-      "has_stick": "2025-01-22 23:18:52 +0000"
+      "skill_cursed_technique_lapse_blue": "2025-01-23 00:17:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+  "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
-      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+      "has_stone": "2025-01-23 00:28:49 +0000"
     },
     "done": true
   },
@@ -133,57 +83,33 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-22 23:21:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-01-22 23:28:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-01-22 23:46:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+      "has_lots_of_items": "2025-01-23 00:06:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "jujutsucraft:observation_of_the_soul": {
     "criteria": {
-      "has_planks": "2025-01-22 23:16:54 +0000"
+      "observation_of_the_soul": "2025-01-23 00:14:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_planks": "2025-01-22 23:16:54 +0000"
+      "has_stone": "2025-01-23 00:28:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2025-01-22 23:20:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-01-22 23:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-01-22 23:52:50 +0000"
+      "has_stone": "2025-01-23 00:28:49 +0000"
     },
     "done": true
   },
@@ -199,33 +125,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-01-22 23:28:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-01-22 23:20:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-01-22 23:16:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-22 23:16:54 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "killed_by_something": "2025-01-22 23:25:10 +0000"
+      "has_stone": "2025-01-23 00:28:49 +0000"
     },
     "done": true
   },
@@ -235,21 +143,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "in_water": "2025-01-22 23:28:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+      "has_stone": "2025-01-23 00:28:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-22 23:28:59 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_gojo": {
+    "criteria": {
+      "skill_gojo": "2025-01-23 00:17:40 +0000"
     },
     "done": true
   },
@@ -277,57 +185,28 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-01-22 23:20:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-01-22 23:28:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-01-22 23:46:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-01-22 23:48:25 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-01-22 23:46:53 +0000"
     },
     "done": true
   },
+  "jujutsucraft:skill_high_speed": {
+    "criteria": {
+      "skill_high_speed": "2025-01-23 00:17:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-01-22 23:21:07 +0000"
+      "apple": "2025-01-22 23:21:07 +0000",
+      "enchanted_golden_apple": "2025-01-23 00:38:54 +0000"
     },
     "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-22 23:18:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-01-22 23:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-01-22 23:52:58 +0000"
     },
     "done": true
   },
@@ -343,21 +222,21 @@
     },
     "done": true
   },
+  "jujutsucraft:skill_strike_strengthening": {
+    "criteria": {
+      "skill_strike_strengthening": "2025-01-23 00:17:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-22 23:20:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "jujutsucraft:start_jujutsu_craft": {
     "criteria": {
-      "has_minecart": "2025-01-22 23:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-01-22 23:20:53 +0000"
+      "start_jujutsu_craft": "2025-01-23 00:06:18 +0000"
     },
     "done": true
   },
@@ -370,6 +249,545 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-22 23:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-01-22 23:18:52 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:advancement_insect": {
+    "criteria": {
+      "advancement_insect": "2025-01-23 00:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-01-22 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-22 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:jujutsu_craft_skills": {
+    "criteria": {
+      "jujutsu_craft_skills": "2025-01-23 00:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-22 23:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-22 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_20": {
+    "criteria": {
+      "sukuna_finger_20": "2025-01-23 00:14:42 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_2_semi": {
+    "criteria": {
+      "sorcerer_grade_2_semi": "2025-01-23 00:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-22 23:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-22 23:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-22 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_1_semi": {
+    "criteria": {
+      "sorcerer_grade_1_semi": "2025-01-23 00:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-22 23:23:59 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_infinity": {
+    "criteria": {
+      "skill_infinity": "2025-01-23 00:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-01-22 23:13:32 +0000",
+      "minecraft:snowy_tundra": "2025-01-22 23:45:15 +0000",
+      "minecraft:wooded_hills": "2025-01-22 23:30:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-22 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-01-22 23:15:57 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_domain_expansion": {
+    "criteria": {
+      "mastery_domain_expansion": "2025-01-23 00:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-01-22 23:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_10": {
+    "criteria": {
+      "sukuna_finger_10": "2025-01-23 00:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-22 23:21:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_11": {
+    "criteria": {
+      "sukuna_finger_11": "2025-01-23 00:14:32 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_advancements": {
+    "criteria": {
+      "battle_advancements": "2025-01-23 00:06:18 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_12": {
+    "criteria": {
+      "sukuna_finger_12": "2025-01-23 00:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-22 23:28:59 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_13": {
+    "criteria": {
+      "sukuna_finger_13": "2025-01-23 00:14:34 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_14": {
+    "criteria": {
+      "sukuna_finger_14": "2025-01-23 00:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_15": {
+    "criteria": {
+      "sukuna_finger_15": "2025-01-23 00:14:37 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:advancement_six_eyes": {
+    "criteria": {
+      "advancement_six_eyes": "2025-01-23 00:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-22 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_1": {
+    "criteria": {
+      "sukuna_finger_1": "2025-01-23 00:14:22 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_16": {
+    "criteria": {
+      "sukuna_finger_16": "2025-01-23 00:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-22 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-22 23:46:53 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_2": {
+    "criteria": {
+      "sukuna_finger_2": "2025-01-23 00:14:23 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_17": {
+    "criteria": {
+      "sukuna_finger_17": "2025-01-23 00:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-22 23:52:50 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_3": {
+    "criteria": {
+      "sukuna_finger_3": "2025-01-23 00:14:24 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_18": {
+    "criteria": {
+      "sukuna_finger_18": "2025-01-23 00:14:40 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_4": {
+    "criteria": {
+      "sukuna_finger_4": "2025-01-23 00:14:25 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_19": {
+    "criteria": {
+      "sukuna_finger_19": "2025-01-23 00:14:41 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_5": {
+    "criteria": {
+      "sukuna_finger_5": "2025-01-23 00:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-22 23:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-22 23:16:54 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:fame_3": {
+    "criteria": {
+      "fame_3": "2025-01-23 00:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-01-22 23:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-22 23:28:59 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:fame_4": {
+    "criteria": {
+      "fame_4": "2025-01-23 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:reverse_cursed_technique_1": {
+    "criteria": {
+      "reverse_cursed_technique_1": "2025-01-23 00:14:19 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_special": {
+    "criteria": {
+      "sorcerer_grade_special": "2025-01-23 00:14:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-01-22 23:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-22 23:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-23 00:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-22 23:46:53 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_cursed_technique_reversal_red": {
+    "criteria": {
+      "skill_cursed_technique_reversal_red": "2025-01-23 00:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-01-23 00:22:44 +0000",
+      "minecraft:creeper": "2025-01-23 00:14:55 +0000",
+      "minecraft:zombie": "2025-01-22 23:48:25 +0000",
+      "minecraft:zombie_villager": "2025-01-23 00:14:55 +0000"
+    },
+    "done": false
+  },
+  "jujutsucraft:sukuna_finger_6": {
+    "criteria": {
+      "sukuna_finger_6": "2025-01-23 00:14:27 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_7": {
+    "criteria": {
+      "sukuna_finger_7": "2025-01-23 00:14:28 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_8": {
+    "criteria": {
+      "sukuna_finger_8": "2025-01-23 00:14:29 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_yuji_itadori": {
+    "criteria": {
+      "battle_yuji_itadori": "2025-01-23 00:28:03 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sukuna_finger_9": {
+    "criteria": {
+      "sukuna_finger_9": "2025-01-23 00:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-01-22 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-22 23:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-23 00:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-23 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_hollow_technique_purple": {
+    "criteria": {
+      "skill_hollow_technique_purple": "2025-01-23 00:17:40 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_4": {
+    "criteria": {
+      "sorcerer_grade_4": "2025-01-23 00:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-22 23:46:48 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_1": {
+    "criteria": {
+      "sorcerer_grade_1": "2025-01-23 00:14:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_ten_shadows_technique": {
+    "criteria": {
+      "skill_ten_shadows_technique": "2025-01-23 00:07:53 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_2": {
+    "criteria": {
+      "sorcerer_grade_2": "2025-01-23 00:14:06 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_3": {
+    "criteria": {
+      "sorcerer_grade_3": "2025-01-23 00:14:05 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_divine_dogs": {
+    "criteria": {
+      "skill_divine_dogs": "2025-01-23 00:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-22 23:20:53 +0000"
     },
     "done": true
   },
@@ -391,39 +809,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2025-01-22 23:18:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-22 23:20:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_oak_planks": "2025-01-22 23:16:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-22 23:16:54 +0000"
+      "has_potato": "2025-01-23 00:28:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-01-22 23:16:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-22 23:52:50 +0000"
     },
     "done": true
   },

@@ -1,137 +1,139 @@
-[22Jan2025 23:43:42.377] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[22Jan2025 23:43:42.382] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[22Jan2025 23:43:42.791] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[22Jan2025 23:43:42.882] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/sisisiqrico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[22Jan2025 23:43:43.588] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Jan2025 23:43:43.759] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Jan2025 23:43:43.773] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[22Jan2025 23:43:45.703] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[22Jan2025 23:43:53.321] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[22Jan2025 23:43:53.331] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[22Jan2025 23:43:53.957] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[22Jan2025 23:43:54.016] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[22Jan2025 23:43:54.211] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[22Jan2025 23:43:54.219] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[22Jan2025 23:43:54.221] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[22Jan2025 23:43:54.222] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[22Jan2025 23:43:55.069] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[23Jan2025 00:36:22.477] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[23Jan2025 00:36:22.481] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[23Jan2025 00:36:23.441] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[23Jan2025 00:36:23.649] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/sisisiqrico/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[23Jan2025 00:36:26.022] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Jan2025 00:36:26.414] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Jan2025 00:36:26.476] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[23Jan2025 00:36:30.643] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[23Jan2025 00:36:35.319] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via virtuoel.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[23Jan2025 00:36:51.560] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[23Jan2025 00:36:52.160] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[23Jan2025 00:36:57.459] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[23Jan2025 00:36:57.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[23Jan2025 00:36:57.996] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[23Jan2025 00:36:58.018] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[23Jan2025 00:36:58.020] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[23Jan2025 00:36:58.021] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[23Jan2025 00:36:59.238] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[22Jan2025 23:43:55.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Jan2025 23:43:55.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[22Jan2025 23:43:58.877] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Jan2025 23:43:59.984] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22Jan2025 23:43:59.986] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Jan2025 23:43:59.990] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Jan2025 23:43:59.992] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22Jan2025 23:43:59.998] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22Jan2025 23:44:00.000] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22Jan2025 23:44:00.004] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, voicechat-forge-1.16.5-2.5.27.jar
-[22Jan2025 23:44:01.879] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[22Jan2025 23:44:02.717] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
-[22Jan2025 23:44:05.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[22Jan2025 23:44:05.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Jan2025 23:44:05.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Jan2025 23:44:05.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Jan2025 23:44:06.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Jan2025 23:44:06.394] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[22Jan2025 23:44:06.568] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Jan2025 23:44:06.569] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Jan2025 23:44:06.570] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Jan2025 23:44:06.571] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Jan2025 23:44:06.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Jan2025 23:44:06.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Jan2025 23:44:08.622] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:44:08.623] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:44:08.623] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:44:08.624] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:44:09.114] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[22Jan2025 23:44:13.122] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:44:13.337] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:13.351] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:13.352] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:13.353] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:13.353] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:13.353] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:13.354] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:13.355] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:13.356] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 38%
-[22Jan2025 23:44:15.017] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
-[22Jan2025 23:44:15.020] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
-[22Jan2025 23:44:15.024] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
-[22Jan2025 23:44:15.355] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 48%
-[22Jan2025 23:44:15.854] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[22Jan2025 23:44:16.348] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[22Jan2025 23:44:16.842] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[22Jan2025 23:44:17.357] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 95%
-[22Jan2025 23:44:17.862] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
-[22Jan2025 23:44:17.919] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[22Jan2025 23:44:18.354] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[22Jan2025 23:44:18.849] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[22Jan2025 23:44:19.369] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 12529 ms
-[22Jan2025 23:44:19.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.769s)! For help, type "help"
-[22Jan2025 23:44:19.390] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[22Jan2025 23:44:19.436] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'america-premises.gl.at.ply.gg:4013'
-[22Jan2025 23:44:19.446] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 64098
-[22Jan2025 23:44:22.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
-[22Jan2025 23:44:28.266] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@23e2a5ab
-[22Jan2025 23:44:28.314] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: wladikato[/127.227.31.128:60193] logged in with entity id 641 at (146.72027431515514, 72.98412785382013, 193.6354862223366)
-[22Jan2025 23:44:28.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato joined the game
-[22Jan2025 23:44:28.897] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wladikato (18)
-[22Jan2025 23:44:28.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wladikato
-[22Jan2025 23:44:29.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a5d91a8c-5439-3d8c-92c9-bc1c182c7369
-[22Jan2025 23:44:30.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a5d91a8c-5439-3d8c-92c9-bc1c182c7369
-[22Jan2025 23:44:30.841] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wladikato (a5d91a8c-5439-3d8c-92c9-bc1c182c7369) successfully connected to voice chat
-[22Jan2025 23:44:36.636] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@35ab40f3
-[22Jan2025 23:44:36.645] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matiroxd64[/127.250.12.205:39965] logged in with entity id 722 at (139.82534260233825, 73.03144147556242, 188.79202825913012)
-[22Jan2025 23:44:36.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 joined the game
-[22Jan2025 23:44:37.158] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Matiroxd64 (18)
-[22Jan2025 23:44:37.168] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Matiroxd64
-[22Jan2025 23:44:38.616] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 96c4e9f8-6f52-3cb3-9af9-b3932d609c17
-[22Jan2025 23:44:39.622] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 96c4e9f8-6f52-3cb3-9af9-b3932d609c17
-[22Jan2025 23:44:39.629] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Matiroxd64 (96c4e9f8-6f52-3cb3-9af9-b3932d609c17) successfully connected to voice chat
-[22Jan2025 23:44:41.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3322ms or 66 ticks behind
-[22Jan2025 23:46:07.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Survival Mode]
-[22Jan2025 23:46:23.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set own game mode to Survival Mode]
-[22Jan2025 23:46:25.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 fell from a high place
-[22Jan2025 23:46:31.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
-[22Jan2025 23:47:14.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set own game mode to Creative Mode]
-[22Jan2025 23:47:21.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Hot Stuff]
-[22Jan2025 23:47:40.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato was doomed to fall
-[22Jan2025 23:47:51.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
-[22Jan2025 23:47:53.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
-[22Jan2025 23:47:59.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
-[22Jan2025 23:48:25.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato has made the advancement [Monster Hunter]
-[22Jan2025 23:49:09.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
-[22Jan2025 23:49:09.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Set the time to 1000]
-[22Jan2025 23:49:17.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
-[22Jan2025 23:49:29.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
-[22Jan2025 23:49:39.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato fell from a high place
-[22Jan2025 23:51:04.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Monster Hunter]
-[22Jan2025 23:52:02.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Ice Bucket Challenge]
-[22Jan2025 23:52:37.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [We Need to Go Deeper]
-[22Jan2025 23:52:44.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Creative Mode]
-[22Jan2025 23:52:50.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato has made the advancement [Ice Bucket Challenge]
-[22Jan2025 23:53:04.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Matiroxd64: Teleported Matiroxd64 to wladikato]
-[22Jan2025 23:53:29.035] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Matiroxd64 lost connection: Disconnected
-[22Jan2025 23:53:29.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 left the game
-[22Jan2025 23:53:29.039] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Matiroxd64
-[22Jan2025 23:53:31.484] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: wladikato lost connection: Disconnected
-[22Jan2025 23:53:31.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato left the game
-[22Jan2025 23:53:31.486] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client wladikato
-[22Jan2025 23:54:10.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[22Jan2025 23:54:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[22Jan2025 23:54:10.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[22Jan2025 23:54:10.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[22Jan2025 23:54:10.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22Jan2025 23:54:10.891] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22Jan2025 23:54:10.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22Jan2025 23:54:10.893] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jan2025 23:54:10.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22Jan2025 23:54:10.895] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Jan2025 23:54:10.920] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22Jan2025 23:54:10.928] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jan2025 23:54:10.933] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jan2025 00:36:59.239] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Jan2025 00:36:59.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[23Jan2025 00:37:04.939] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Jan2025 00:37:06.848] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, entity] and [scale, compute, scale_type, scalingFactor] with inputs: [0123]
+[23Jan2025 00:37:06.869] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, compute, scale_type, scalingFactor] and [scale, compute, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[23Jan2025 00:37:06.874] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, get, scale_type] and [scale, delay, get, entity] with inputs: [base]
+[23Jan2025 00:37:06.876] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, delay, reset, scale_type] and [scale, delay, reset, targets] with inputs: [base]
+[23Jan2025 00:37:06.879] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, get, scale_type] and [scale, easing, get, entity] with inputs: [base]
+[23Jan2025 00:37:06.881] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, easing, reset, scale_type] and [scale, easing, reset, targets] with inputs: [base]
+[23Jan2025 00:37:06.884] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, entity] and [scale, get, scalingFactor] with inputs: [0123]
+[23Jan2025 00:37:06.886] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type] and [scale, get, entity] with inputs: [base]
+[23Jan2025 00:37:06.887] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, entity] and [scale, get, scale_type, scalingFactor] with inputs: [0123]
+[23Jan2025 00:37:06.904] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scale_type, scalingFactor] and [scale, get, scale_type, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[23Jan2025 00:37:06.909] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, get, scalingFactor] and [scale, get, entity] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[23Jan2025 00:37:06.914] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, persist, reset, scale_type] and [scale, persist, reset, targets] with inputs: [base]
+[23Jan2025 00:37:06.917] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [scale, reset, scale_type] and [scale, reset, targets] with inputs: [base]
+[23Jan2025 00:37:06.929] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Jan2025 00:37:06.930] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Jan2025 00:37:06.932] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Jan2025 00:37:06.936] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Jan2025 00:37:06.940] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23Jan2025 00:37:06.944] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23Jan2025 00:37:06.962] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, voicechat-forge-1.16.5-2.5.27.jar, Pehkui-3.8.2+1.16.5-forge.jar, JujutsuCraft_1.16.5_ver24.jar
+[23Jan2025 00:37:11.651] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[23Jan2025 00:37:13.687] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1053 advancements
+[23Jan2025 00:37:19.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[23Jan2025 00:37:19.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Jan2025 00:37:19.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Jan2025 00:37:19.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Jan2025 00:37:20.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Jan2025 00:37:21.027] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[23Jan2025 00:37:21.444] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Jan2025 00:37:21.445] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Jan2025 00:37:21.445] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Jan2025 00:37:21.445] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Jan2025 00:37:21.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Jan2025 00:37:22.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Jan2025 00:37:25.709] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:25.718] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:25.721] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:25.721] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:25.726] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:25.726] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:25.727] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:25.728] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:26.201] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[23Jan2025 00:37:26.596] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[23Jan2025 00:37:31.095] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[23Jan2025 00:37:34.374] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.378] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.384] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.385] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.401] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.456] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.458] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.459] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.461] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.463] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.464] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.473] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.474] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.517] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.517] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 50%
+[23Jan2025 00:37:34.594] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[23Jan2025 00:37:37.366] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[23Jan2025 00:37:37.370] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[23Jan2025 00:37:37.370] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[23Jan2025 00:37:37.372] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[23Jan2025 00:37:37.375] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[23Jan2025 00:37:37.605] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 75%
+[23Jan2025 00:37:38.107] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 77%
+[23Jan2025 00:37:38.607] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 80%
+[23Jan2025 00:37:39.117] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 81%
+[23Jan2025 00:37:39.599] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[23Jan2025 00:37:40.108] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[23Jan2025 00:37:40.596] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[23Jan2025 00:37:41.128] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[23Jan2025 00:37:41.630] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 90%
+[23Jan2025 00:37:42.101] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[23Jan2025 00:37:43.321] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[23Jan2025 00:37:43.322] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[23Jan2025 00:37:43.812] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 21719 ms
+[23Jan2025 00:37:43.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.313s)! For help, type "help"
+[23Jan2025 00:37:43.860] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[23Jan2025 00:37:43.927] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'america-premises.gl.at.ply.gg:4013'
+[23Jan2025 00:37:43.955] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 64098
+[23Jan2025 00:37:46.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[23Jan2025 00:38:11.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10272ms or 205 ticks behind
+[23Jan2025 00:38:13.608] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71717567
+[23Jan2025 00:38:13.710] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Matiroxd64[/127.250.12.205:47379] logged in with entity id 310 at (157.43006800581534, 51.0, 269.30000001192093)
+[23Jan2025 00:38:13.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 joined the game
+[23Jan2025 00:38:14.675] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Matiroxd64 (18)
+[23Jan2025 00:38:14.700] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Matiroxd64
+[23Jan2025 00:38:16.813] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 96c4e9f8-6f52-3cb3-9af9-b3932d609c17
+[23Jan2025 00:38:17.807] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 96c4e9f8-6f52-3cb3-9af9-b3932d609c17
+[23Jan2025 00:38:17.828] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Matiroxd64 (96c4e9f8-6f52-3cb3-9af9-b3932d609c17) successfully connected to voice chat
+[23Jan2025 00:38:36.935] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3ab68675
+[23Jan2025 00:38:36.973] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: wladikato[/127.227.31.128:53159] logged in with entity id 389 at (155.77886402240426, 54.0, 268.98717343052994)
+[23Jan2025 00:38:37.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato joined the game
+[23Jan2025 00:38:37.895] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of wladikato (18)
+[23Jan2025 00:38:37.899] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to wladikato
+[23Jan2025 00:38:39.866] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a5d91a8c-5439-3d8c-92c9-bc1c182c7369
+[23Jan2025 00:38:40.869] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a5d91a8c-5439-3d8c-92c9-bc1c182c7369
+[23Jan2025 00:38:40.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player wladikato (a5d91a8c-5439-3d8c-92c9-bc1c182c7369) successfully connected to voice chat
+[23Jan2025 00:38:41.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14906ms or 298 ticks behind
+[23Jan2025 00:40:06.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Creative Mode]
+[23Jan2025 00:40:21.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Jan2025 00:40:23.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Survival Mode]
+[23Jan2025 00:43:02.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Creative Mode]
+[23Jan2025 00:43:16.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [wladikato: Set own game mode to Survival Mode]
+[23Jan2025 00:43:18.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has reached the goal [Mastery Simple Domain]
+[23Jan2025 00:44:17.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[23Jan2025 00:44:22.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: wladikato has reached the goal [Mastery Simple Domain]
+[23Jan2025 00:44:36.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has made the advancement [Copy]
+[23Jan2025 00:44:36.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has reached the goal [Rika's Control]
+[23Jan2025 00:44:50.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Matiroxd64 has completed the challenge [Special Grade Sorcerer]

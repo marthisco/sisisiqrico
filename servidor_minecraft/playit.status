@@ -1,1204 +1,3400 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737589425403 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1737590598811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589428685 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590601930 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589432033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590605086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589435152 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590608361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589438282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590611455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589441541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590614716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589444682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590617829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589447812 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590620947 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589450949 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590624023 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589454080 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590627114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589457487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590630232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589460593 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590633820 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589463667 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590637012 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589466766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590640134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589469874 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590643257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589472980 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590646372 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589476090 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590649488 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589479543 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590652714 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589482647 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590655791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589485779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590658867 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589488894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590661981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589492000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590665092 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589495106 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590668211 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589498245 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590671329 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589501341 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590674452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589504422 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590677574 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589507541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590680686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589510657 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590683821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589513788 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590687184 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589516876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590690316 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589520034 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590693516 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589523129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590696675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589526240 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590699818 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589529362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590703056 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589532464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590706182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589535546 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590709300 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589538670 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590712413 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589541877 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590715782 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589544963 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590719126 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589548045 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590722246 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589551433 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590725425 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589554584 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590728620 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589557669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590731737 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589560793 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590734829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589563913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590737955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589567019 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590741120 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589570127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590744241 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589573252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590747467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589576489 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590750824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589579612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590753993 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589582726 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590757073 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589585867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590760179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589589001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590763309 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589592135 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590766427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589595215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590769547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589598337 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590772672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589601423 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590775746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589604554 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590778865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589607688 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590782387 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589610798 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590785844 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589613911 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590788953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589617223 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590792049 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589620362 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590795179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589623502 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590798593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589626838 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590802011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589629985 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590805322 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589633113 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590808460 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589636229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590811570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589639327 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590814684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589642425 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590817790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589645501 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590821093 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589648587 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590824200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589651677 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590827314 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589654789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590830723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589657920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590833845 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589661022 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590836960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589664113 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590840038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589667193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590843124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589670380 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590846233 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589673474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590849349 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589676896 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590852459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589680029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590855572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589683152 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590858682 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589686289 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590862080 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589689407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590865199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589692533 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590868324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589695619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590871433 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589698714 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590874570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589701789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590877744 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589705068 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590880852 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589708192 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590883989 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589711317 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590887109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589714457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590890242 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589717590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590893368 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589720706 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590896487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589723782 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590899574 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589726871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590902648 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589729961 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590905866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589733033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590909273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589736148 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590912402 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589739462 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590915511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589742553 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590918628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589745635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590921746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589749075 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590924838 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589752609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590927941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589756053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590931049 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589759161 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590934164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589762266 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590937288 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589765371 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590940731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589768463 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590944178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589771575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590947277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589774669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590950806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589777754 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590953932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589780872 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590957415 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589783990 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590960513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589787096 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590963628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589790200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590966764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589793307 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590969878 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589796410 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590972992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589799508 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590976462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589802616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590979597 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589805746 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590982716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589808867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590985830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589811943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590988909 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589815057 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590991986 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589818394 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590995102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589821728 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737590998207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589824839 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591001345 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589827927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591004472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589831013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591007571 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589834123 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591010671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589837229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591013812 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589840332 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591016918 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589843434 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591020034 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589846541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591023158 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589849646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591026272 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589852721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591029614 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589855840 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591032740 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589858959 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591036181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589862114 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591039298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589865222 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591042414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589868339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591045553 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589871485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591048719 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589874613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591051841 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589877734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591054970 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589880831 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591058053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589883939 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591061134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589887043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591064273 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589890140 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591067396 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589893241 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591070507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589896351 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591073587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589899447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591076687 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589902536 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591079806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589905621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591082954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589908759 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591086060 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589911857 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591089185 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589914970 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591092467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589918053 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591095578 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589921142 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591098706 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589924234 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591102125 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589927348 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591105254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589930453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591108733 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589933554 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591111856 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589936660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591114970 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589939769 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591118101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589942876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591121466 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589945976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591124584 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589949108 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591127941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589952216 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591131050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589955326 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591134373 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589958455 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591137933 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589961541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591141043 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589965184 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591144153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589968275 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591147266 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589971361 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591150385 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589974471 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591153464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589977604 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591156552 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589980721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591159678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589984639 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591162762 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589987750 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591165858 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589991464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591168976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589995376 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591172101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737589998512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591175220 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590001588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591178332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590004666 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591181468 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590007760 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591184593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590010840 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591187716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590013924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591190828 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590017041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591193943 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590020163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591197058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590023285 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591200179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590026401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591203318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590029519 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591207294 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590032594 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591210418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590035713 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591213885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590038829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591217011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590041950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591220124 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590045060 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591223235 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590048468 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591226347 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590051791 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591229463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
 otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1737590054918 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1737591232544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591235819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591238948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591242065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591245182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591248315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591251437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591254514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591257644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591260752 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591263863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591266980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591270072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591273159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591276266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591279415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591282541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591285948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591289062 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591292186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591295302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591298441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591301882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591304992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591308386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591311760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591314873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591317995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591321109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591324224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591327354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591330692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591333794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591336920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591340037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591343152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591346265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591349380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591352505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591355621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591358953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591362066 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591365160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591368240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591371346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591374809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591378142 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591381683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591385084 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591388314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591391394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591394581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591397723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591400831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591403945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591407026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591410185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591413292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591416394 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591419538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591422651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591425775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591428888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591432003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591435122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591438235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591441354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591444473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591447896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591451023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591454134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591457248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591460351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591463570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591466779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591470096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591473232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591476318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591479426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591482536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591485654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591488793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591492209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591495319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591498444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591501589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591504686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591507808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591510920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591514033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591517120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591520207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591523325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591526457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591529584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591532671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591535769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591539013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591542413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591546159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591549273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591552383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591555971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591559308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591562807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591565945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591569041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591572148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591575232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591578325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591581433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591584548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591587712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591590836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591594091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591597210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591600322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591603409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591606496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591609635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591612763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591615895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591619226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591622349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591625550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591628666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591631758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591634856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591637934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591641280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591644411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591647529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591650707 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591653822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591656939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591660047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591663181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591666298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591669376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591672494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591675605 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591678713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591681829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591684944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591688034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591691199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591694347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591697477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591700589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591703694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591706787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591709875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591713190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591716308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591719583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591722702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591725821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591728915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591732208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591735327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591738453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591741563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591744676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591747787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591750903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591754009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591757092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591760172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591763255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591766473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591769613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591772730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591775859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591778970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591782056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591785133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591788243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591791368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591794487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591797586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591800705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591803832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591806928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591810023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591813129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591816271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591819378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591822497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591825620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591828756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591831882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591834986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591838063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591841169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591844280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591847406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591850552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591853675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591856799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591859924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591863145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591866236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591869324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591872423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591875521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591878638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591881746 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591884854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591887945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591891054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591894136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591897485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591900647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591903990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591907381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591910497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591913693 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591916810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591919983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591923136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591926232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591929344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591932439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591935642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591938760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591941881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591944984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591948156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591951263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591954343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591957427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591960690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591963775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591966856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591969958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591973037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591976150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591979264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591982539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591985639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591988725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591991832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591994943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737591998055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592001426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592004538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592007647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592010759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592013865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592016987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592020233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592023346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592026467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592029593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592032698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592035815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592038941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592042024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592045107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592048222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592051365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592054477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592057633 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592061064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592064156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592067270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592070475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592073599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592076709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592079828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592083138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592086419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592089559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592092678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592095758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592098881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592101988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592105103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592108206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592111318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592114398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592117477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592120570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592123647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592126754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592129868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592133012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592136729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592139853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592142979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592146093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592149210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592152289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592155366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592158444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592161518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592164637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592167998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592171080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592174154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592177261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592180398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592183523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592186657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592189761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592192853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592195989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592199107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592202248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592205377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592208503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592211627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592214750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592217871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592221004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592224090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592227164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592230262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592233371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592236450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592239798 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592242916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592246011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592249113 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592252217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592255381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592258515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592261639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592264755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592267900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592271013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592274097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592277177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592280293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592283422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592286656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592289774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592292915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592296010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592299119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592302243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592305371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592308451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592311564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592314691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592317829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592321279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592324351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592327435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592330526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592333604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592336683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592339769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592342863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592345964 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592349085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592352190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592355263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592358346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592361456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592364571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592367692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592370861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592373993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592377121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592380256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1737592383368 tunnel running, 2 tunnels registered
 
 
 TUNNELS
