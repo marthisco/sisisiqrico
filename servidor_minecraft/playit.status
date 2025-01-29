@@ -1,18 +1,492 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1738104611238 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1738109944321 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
-otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738104614376 tunnel running, 2 tunnels registered
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109947470 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
-otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1738104617636 tunnel running, 2 tunnels registered
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109950702 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-america-premises.gl.at.ply.gg:4013 => 127.0.0.1:64098 (proto: Udp, port count: 1)
-otherwise-contributed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109953803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109956928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109960024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109963304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109966670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109969759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109972869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109975945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109979086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109982209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109985301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109988492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109991613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109994686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738109997756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110000884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110004031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110007173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110010310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110013435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110016561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110019679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110022806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110025926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110029079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110032313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110035417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110038541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110041896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110045038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110048129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110051278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110054395 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110057495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110060576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110063688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110066764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110069849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110072974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110076389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110079547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110082647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110085761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110088888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110091999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110095128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110098267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110101341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110104420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110107509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110110607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110113690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110116771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110119887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110123005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110126123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110129371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110132492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110135581 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110138659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110141754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110144836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110147922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110150997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110154439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110157565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110160698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110164146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110167296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110170440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110173547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110176653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110179751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110182875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110186297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110189435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110192539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110195655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1738110199063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+dark-ha.gl.at.ply.gg:2074 => 127.0.0.1:64098 (proto: Udp, port count: 1)
+itself-hall.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
